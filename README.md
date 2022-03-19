@@ -1,7 +1,9 @@
 
-# Git commands
+# Git commands and Markdown
 
 This repos contains some basic and most useful commands in Git.
+
+# Git commands
 
 ## Installation
 <details open>
