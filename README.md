@@ -1,7 +1,7 @@
 
 # Git commands and Markdown
 
-This repos contains some basic and most useful commands in Git.
+This repos wil teach you the basic in Markdowns and most useful commands in Git.
 
 # Git commands
 
