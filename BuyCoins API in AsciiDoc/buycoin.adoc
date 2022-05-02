@@ -1,7 +1,11 @@
-
 Main Header
 ===========
-
+Ifeanyi Iheagwara <Iheifeanyi@gmail.com>
+Optional version, optional date
+:Author:    AlternativeWayToSetOptional Author Name
+:Email:     <AlternativeWayToSetOptional@author.email>
+:Date:      AlternativeWayToSetOptional date
+:Revision:  AlternativeWayToSetOptional version
 
 = Intoduction
 Welcome to the BuyCoins API
