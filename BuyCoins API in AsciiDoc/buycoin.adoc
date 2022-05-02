@@ -7,11 +7,12 @@ Optional version, optional date
 :Date:      AlternativeWayToSetOptional date
 :Revision:  AlternativeWayToSetOptional version
 
-= Intoduction
+== Introduction
+
 Welcome to the BuyCoins API
 
 
-== Other APIs
+=== Other APIs
 
 If you're looking for documentation for our other API services:
 
