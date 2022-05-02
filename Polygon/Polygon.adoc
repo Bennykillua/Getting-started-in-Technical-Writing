@@ -1,0 +1,86 @@
+Main Header
+===========
+Ifeanyi Iheagwara <Iheifeanyi@gmail.com>
+Optional version, optional date
+:Author:    AlternativeWayToSetOptional Author Name
+:Email:     <AlternativeWayToSetOptional@author.email>
+:Date:      AlternativeWayToSetOptional date
+:Revision:  AlternativeWayToSetOptional version
+
+= New to Polygon?
+
+Polygon is a scaling solution for public blockchains. Polygon PoS supports all the existing Ethereum tooling along with faster and cheaper transactions.
+
+== Types of Interaction on Polygon
+
+* https://docs.polygon.technology/docs/develop/getting-started[Polygon PoS chain]
+
+* https://docs.polygon.technology/docs/develop/ethereum-polygon/pos/getting-started[Ethereum + Polygon with PoS bridge]
+
+* https://docs.polygon.technology/docs/develop/ethereum-polygon/plasma/getting-started[thereum + Polygon with Plasma bridge]
+
+== Deploy Smart Contracts
+
+* Deploy your Contracts on Polygon
+** https://docs.polygon.technology/docs/develop/alchemy[Using Alchemy]
+** https://docs.polygon.technology/docs/develop/chainstack[Using Chainstack]
+** https://docs.polygon.technology/docs/develop/quicknode[Using QuickNode]
+** https://docs.polygon.technology/docs/develop/remix[Using Remix]
+** https://docs.polygon.technology/docs/develop/truffle[Using Truffle]
+** https://docs.polygon.technology/docs/develop/hardhat[Using Hardhat]
+
+*Configure the Web3 RPC-URL to https://rpc-mumbai.matic.today, _Everything else remains the same_
+
+== What is a Blockchain?
+
+Simply put, Blockchain is a shared, immutable ledger for recording transactions, tracking assets and building trust. Head over to https://docs.polygon.technology/docs/home/new-to-polygon/blockchain-basics/blockchain[Blockchain Basics]to read more.
+
+🎥 https://www.youtube.com/watch?v=rzvk2kdjr2I[Your first DApp]
+
+== What is a Sidechain?
+Think of a Sidechain as a clone of a "parent" blockchain, supporting transfer of assets to and from the main chain. It is simply an alternate to parent chain that creates a new blockchain with its own mechanism of creating blocks (consensus mechanism). Connecting a sidechain to a parent chain involves setting up a method of moving assets between the chains.
+
+📄 https://hackernoon.com/what-are-sidechains-and-childchains-7202cc9e5994[Sidechains and Childchains]
+
+== Validator and delegator roles
+On the Polygon Network, you can be a validator or a delegator. See:
+
+* https://docs.polygon.technology/docs/validate/polygon-basics/who-is-validator[Who Is a Validator]
+
+* https://docs.polygon.technology/docs/validate/polygon-basics/who-is-delegator[Who Is a Delegator]
+
+== Architecture
+If your goal is to become a validator, it is essential that you understand the Polygon architecture.
+
+See https://docs.polygon.technology/docs/validate/validator/architecture[Polygon Architecture].
+
+== Components
+
+To have a granular understanding of the Polygon architecture, see core components:
+
+* https://docs.polygon.technology/docs/contribute/heimdall/overview[Heimdall]
+
+* https://docs.polygon.technology/docs/contribute/bor/overview[Bor]
+
+* https://docs.polygon.technology/docs/contribute/contracts/stakingmanager[Contracts]
+
+== Codebases
+To have a granular understanding of the core components, see the codebases:
+
+* https://github.com/maticnetwork/heimdall[Heimdall]
+
+* https://github.com/maticnetwork/bor[Bor]
+
+* https://github.com/maticnetwork/contracts[Contracts]
+
+== How-tos
+
+=== Node setup
+* https://docs.polygon.technology/docs/validate/validate/run-validator-ansible[Run a Validator Node with Ansible]
+
+* https://docs.polygon.technology/docs/validate/validate/run-validator-binaries[Run a Validator Node from Binaries]
+
+=== Staking operations
+* https://docs.polygon.technology/docs/validate/validate/validator-staking-operations[Validator Staking Operations]
+
+* https://docs.polygon.technology/docs/validate/delegate[Delegate]
