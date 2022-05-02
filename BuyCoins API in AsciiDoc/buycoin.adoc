@@ -1,1 +1,46 @@
 
+Main Header
+===========
+
+
+= Intoduction
+Welcome to the BuyCoins API
+
+
+== Other APIs
+
+If you're looking for documentation for our other API services:
+
+* *Sendcash API*: The Sendcash API lets you wire money to any US bank account. More countries coming soon. Here are the https://docs.sendcash.africa/[docs].
+
+* *Sendcash Pay*: Sendcash Pay lets your users initiate instant bank payments directly within your application. Here are the https://sendcashpay.com/docs/intro[docs].
+
+== How do I get access to Buycoins API?
+
+The API is currently open to access requests from fully verified BuyCoins users. To apply, please send an email to *support@buycoins.africa* from your email account registered on BuyCoins.
+
+== What can I do with the API?
+
+The core features of the API are:
+
+. Buy & Sell supported cryptocurrencies (Bitcoin, Ethereum, Litecoin, Tether, Naira token, BSC Naira token & U.S. Dollar Coin).
+
+. Send supported currencies to external addresses.
+
+. Generate addresses to receive supported currencies.
+
+With some combination of the above you can build a vast array of many different products or features. Here are some examples:
+
+. Accept Bitcoin payments in your app or website. 
+
+. Pay users of your app/website with Bitcoin or other currencies.
+
+. You can combine the two examples above to build a remittance product.
+
+. Build an entire exchange that lets users buy, sell & store cryptocurrency. 
+
+====
+Next
+
+*Tools and Libraries*
+====
