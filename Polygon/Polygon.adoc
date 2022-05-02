@@ -29,7 +29,7 @@ Polygon is a scaling solution for public blockchains. Polygon PoS supports all t
 ** https://docs.polygon.technology/docs/develop/truffle[Using Truffle]
 ** https://docs.polygon.technology/docs/develop/hardhat[Using Hardhat]
 
-*Configure the Web3 RPC-URL to https://rpc-mumbai.matic.today, _Everything else remains the same_
+* Configure the Web3 RPC-URL to https://rpc-mumbai.matic.today, _Everything else remains the same_
 
 == What is a Blockchain?
 
