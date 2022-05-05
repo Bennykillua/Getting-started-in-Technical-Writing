@@ -1,16 +1,17 @@
-Main Header
-===========
-Ifeanyi Iheagwara <Iheifeanyi@gmail.com>
-Optional version, optional date
-:Author:    AlternativeWayToSetOptional Author Name
-:Email:     <AlternativeWayToSetOptional@author.email>
-:Date:      AlternativeWayToSetOptional date
-:Revision:  AlternativeWayToSetOptional version
+:jbake-title: Buycoin Introduction
+:jbake-type: page_toc
+:jbake-status: published
+:jbake-menu: arc42
+:jbake-order: 14
+:filename: \chapters\Buycoin.adoc
+ifndef::imagesdir[:imagesdir: ../../images]
 
+:toc:
+
+[[section-introduction-and-goals]]
 == Introduction
 
 Welcome to the BuyCoins API
-
 
 === Other APIs
 
@@ -36,13 +37,13 @@ The core features of the API are:
 
 With some combination of the above you can build a vast array of many different products or features. Here are some examples:
 
-. Accept Bitcoin payments in your app or website. 
+. Accept Bitcoin payments in your app or website.
 
 . Pay users of your app/website with Bitcoin or other currencies.
 
 . You can combine the two examples above to build a remittance product.
 
-. Build an entire exchange that lets users buy, sell & store cryptocurrency. 
+. Build an entire exchange that lets users buy, sell & store cryptocurrency.
 
 ====
 Next
