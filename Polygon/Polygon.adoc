@@ -1,12 +1,14 @@
-Main Header
-===========
-Ifeanyi Iheagwara <Iheifeanyi@gmail.com>
-Optional version, optional date
-:Author:    AlternativeWayToSetOptional Author Name
-:Email:     <AlternativeWayToSetOptional@author.email>
-:Date:      AlternativeWayToSetOptional date
-:Revision:  AlternativeWayToSetOptional version
+:jbake-title: New to Polygon?
+:jbake-type: page_toc
+:jbake-status: published
+:jbake-menu: arc42
+:jbake-order: 13
+:filename: \chapters\Polygon.adoc
+ifndef::imagesdir[:imagesdir: ../../images]
 
+:toc:
+
+[[section-introduction-and-goals]]
 = New to Polygon?
 
 Polygon is a scaling solution for public blockchains. Polygon PoS supports all the existing Ethereum tooling along with faster and cheaper transactions.
