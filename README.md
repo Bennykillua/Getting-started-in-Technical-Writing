@@ -1,4 +1,7 @@
 
+# Markdowns
+
+
 # Git commands and Markdown
 
 This repos wil teach you the basic in Markdowns and most useful commands in Git.
@@ -244,8 +247,6 @@ This repos wil teach you the basic in Markdowns and most useful commands in Git.
 </details>
 
 ---
-
-# Markdowns
 
 # Resources
 - https://www.tablesgenerator.com/markdown_tables
