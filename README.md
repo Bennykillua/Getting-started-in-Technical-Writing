@@ -11,6 +11,12 @@ Other examples of markup languages are HTML and reStructuredText.
 
 ## Simple Syntax in Markdowns
 
+# Table of contents
+1. [Introduction](#introduction)
+2. [Some paragraph](#paragraph1)
+    1. [Sub paragraph](#subparagraph1)
+3. [Another paragraph](#paragraph2)
+
 
 # Git commands and Markdown
 
