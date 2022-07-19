@@ -1,7 +1,15 @@
 
 # Markdowns
 
-Markdown is an incredibly powerful writing tool which will allow you to create rich content for the web far faster than almost any other method.
+Markdown is an incredibly powerful writing language that allows you create rich formatted text.
+
+## Who created Markdown?
+
+John Gruber and Aaron Swartz in 2004. At the moment, Markdown is now one of the world’s most popular markup languages. 
+
+Other examples of markup languages are HTML and reStructuredText.
+
+## Simple Syntax in Markdowns
 
 
 # Git commands and Markdown
