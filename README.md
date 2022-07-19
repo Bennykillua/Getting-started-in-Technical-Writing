@@ -1,6 +1,8 @@
 
 # Markdowns
 
+Markdown is an incredibly powerful writing tool which will allow you to create rich content for the web far faster than almost any other method.
+
 
 # Git commands and Markdown
 
