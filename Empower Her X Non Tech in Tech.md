@@ -37,3 +37,9 @@ Learn more [here](https://twitter.com/empowerhercom/status/1554066239047274498?s
 
 - [Open Source and the Real World by Benny, Blessing, and Timonwa](https://docs.google.com/presentation/d/19QLEWGtSAdsvFsHLWOdIlLx6hnI-M6ZcS8XcczEQhcE/edit?usp=sharing)
 
+## Students in the bootcamp
+
+To add you name, follow this order: name, GitHub username, linkedin, twitter (if applicable)
+
+- 
+
