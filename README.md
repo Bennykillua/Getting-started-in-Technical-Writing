@@ -6,7 +6,7 @@ A compilation of resources for anyone who wants to get started in technical writ
 
 ## Contributors
 
-This project exists thanks to all the people who contribute!
+This project exists thanks to all the people who contribute! ❤️ 💙
 
 View our list of contributors [here](https://github.com/Bennykillua/Getting-started-in-Technical-Writing/blob/main/Contributor.md)
 
@@ -27,6 +27,10 @@ Learn how to make a [contribution](https://github.com/Bennykillua/Getting-starte
 - Getting started slides from [Empower Her Community in collaboration with Non Tech in Tech](https://github.com/Bennykillua/Getting-started-in-Technical-Writing/blob/main/Empower%20Her%20X%20Non%20Tech%20in%20Tech.md) Boot camp
 
 - [Learning markdown](https://github.com/Bennykillua/Getting-started-in-Technical-Writing/blob/main/Learning%20Markdown.md)
+
+### Contributing to open source as a technical writer
+
+Learn more by taking a look at this [file](https://github.com/Bennykillua/Getting-started-in-Technical-Writing/blob/main/Contributing%20to%20open%20source%20as%20a%20technical%20writer.md)
 
 ### Getting paid
 
