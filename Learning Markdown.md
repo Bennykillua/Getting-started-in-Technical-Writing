@@ -27,3 +27,7 @@ this will display:
 2. [Some paragraph](#paragraph1)
     1. [Sub paragraph](#subparagraph1)
 3. [Another paragraph](#paragraph2)
+
+# Resources
+- https://www.tablesgenerator.com/markdown_tables
+- [Markdown badges](https://github.com/Ileriayo/markdown-badges)
