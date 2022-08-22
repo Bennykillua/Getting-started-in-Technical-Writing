@@ -49,11 +49,7 @@ Now you want to clone the repository so you have it locally available:
 
 7. Make chnages 
 
-* in case you need some help on how markdown works, please see this article:
-  
-[What's up with markdown?](content/post/what-s-up-with-markdown/index.md) 
-
-learn how to write in markdown with these [resources](https://github.com/Bennykillua/Getting-started-in-Technical-Writing/blob/main/Learning%20Markdown.md)
+* in case you need some help on how markdown works, check out this [website](https://www.markdowntutorial.com/) or learn how to write in markdown using these [resources](https://github.com/Bennykillua/Getting-started-in-Technical-Writing/blob/main/Learning%20Markdown.md)
 
 8. Commit and push your changes to your fork
 
