@@ -32,7 +32,7 @@ Learn how to make a [contribution](https://github.com/Bennykillua/Getting-starte
 
 ### Contributing to publications and open source as a technical writer
 
-Learn more by taking a look at this [file](https://github.com/Bennykillua/Getting-started-in-Technical-Writing/edit/main/Contributing%20to%20open%20source%20as%20a%20technical%20writer.md)
+Learn more by taking a look at this [file](https://github.com/Bennykillua/Getting-started-in-Technical-Writing/blob/main/Contributing%20as%20a%20technical%20writer.md)
 
 ### Getting paid
 
