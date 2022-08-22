@@ -14,6 +14,10 @@ Please note we have a code of conduct. Follow it in all your interactions with t
 1. Update the README.md
 2. Create the pull request and explain your changes. We'll merge it in or reply as quickly as possible.
 
+## How to contribute
+
+Learn how to make a [contribution](https://github.com/Bennykillua/Getting-started-in-Technical-Writing/blob/main/Contribute%20by%20Forking.md)
+
 # Code of Conduct
 
 ## Our Pledge
@@ -133,6 +137,3 @@ the community.
 This Code of Conduct is adapted from the [Contributor Covenant](https://www.contributor-covenant.org/),
 version 2.0, available at
 https://www.contributor-covenant.org/version/2/0/code_of_conduct.html.
-
-## How to contribute
-
