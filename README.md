@@ -28,6 +28,8 @@ Learn how to make a [contribution](https://github.com/Bennykillua/Getting-starte
 
 - [Learning markdown](https://github.com/Bennykillua/Getting-started-in-Technical-Writing/blob/main/Learning%20Markdown.md)
 
+- [Simple Git commands](https://github.com/Bennykillua/Getting-started-in-Technical-Writing/blob/main/Learning%20Git.MD)
+
 ### Contributing to publications and open source as a technical writer
 
 Learn more by taking a look at this [file](https://github.com/Bennykillua/Getting-started-in-Technical-Writing/edit/main/Contributing%20to%20open%20source%20as%20a%20technical%20writer.md)
