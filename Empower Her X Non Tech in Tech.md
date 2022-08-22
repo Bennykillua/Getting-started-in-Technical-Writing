@@ -11,9 +11,9 @@ A female community seeing to the growth and progress of women in tech.
 
 A community of Non-techies in Africa. You can join the slack group [here](https://join.slack.com/t/nontechintech/shared_invite/zt-1elj2fo4m-mi0HWRhkC5R8jjkxw73ikg)
 
-## Tutors
+## Tutors 
 
-- Benny Ifeanyi Iheagwara Linkedin](https://www.linkedin.com/in/ifeanyi-iheagwara/), [Twitter](https://twitter.com/Bennykillua).
+- Benny Ifeanyi Iheagwara [Linkedin](https://www.linkedin.com/in/ifeanyi-iheagwara/), [Twitter](https://twitter.com/Bennykillua).
 
 - Blessing Anyebe - Technical Writing
 
