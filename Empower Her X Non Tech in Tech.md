@@ -5,7 +5,7 @@ Read this article to learn more about the [bootcamp](https://nontechintech.subst
 
 ## Empower Her Community
 
-A female community seeing to the growth and progress of women in tech.
+A female community seeing to the growth and progress of women in tech. You can join the slack group [here](https://linktr.ee/EmpowerHerCommunity).
 
 ## Non Tech in Tech
 
@@ -13,12 +13,20 @@ A community of Non-techies in Africa. You can join the slack group [here](https:
 
 ## Tutors 
 
-- Benny Ifeanyi Iheagwara [Linkedin](https://www.linkedin.com/in/ifeanyi-iheagwara/), [Twitter](https://twitter.com/Bennykillua).
+- Benny Ifeanyi Iheagwara - [Linkedin](https://www.linkedin.com/in/ifeanyi-iheagwara/) [Twitter](https://twitter.com/Bennykillua) [GitHub](https://github.com/Bennykillua)
 
-- Blessing Anyebe - Technical Writing
+- Blessing Anyebe - [Linkedin](https://www.linkedin.com/in/anyebe-blessing-ene-kwennb/) [Twitter](https://twitter.com/KwennB)
 
-- Pelumi Akintokun - Technical Writing
+- Pelumi Timonwa Akintokun - [Linkedin](https://www.linkedin.com/in/pelumi-akintokun/) [Twitter](https://twitter.com/timonwa_) [GitHub](https://github.com/timonwa)
 
-- Segun Olumide - Technical Writing
+- Segun Olumide - [Linkedin](https://www.linkedin.com/in/wonexo/) [Twitter](https://twitter.com/wonexo)
+
+Learn more [here](https://twitter.com/empowerhercom/status/1554066239047274498?s=20&t=FpcUvRbr0vroejf1fneanw).
 
 ## Resources used
+
+- [ntroduction to Technical Writing by Benny and Blessing](https://docs.google.com/presentation/d/1iQjS8ng7s8cNnbX_-pmcaVX_fiJrZTLdcDvdKSySq9s/edit?usp=sharing)
+
+- [Technical Writing 102](https://docs.google.com/presentation/d/15qSEnL9TNgbgrNFrSIeE987ZwcRMG1auNwX5NyRLcFU/edit?usp=sharing)
+
+- [Tools used in Technical Writing by Benny, Blessing, and Timonwa
