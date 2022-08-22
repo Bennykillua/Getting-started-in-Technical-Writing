@@ -1,7 +1,3 @@
-# Git commands and Markdown
-
-This repos wil teach you the basic in Markdowns and most useful commands in Git.
-
 # Git commands
 
 ## Installation
