@@ -1,5 +1,5 @@
 
-# Code of Conduct and the Contributing Guidelines
+# Code of Conduct and Contributing Guidelines
 
 # Contributing
 
@@ -133,4 +133,6 @@ the community.
 This Code of Conduct is adapted from the [Contributor Covenant](https://www.contributor-covenant.org/),
 version 2.0, available at
 https://www.contributor-covenant.org/version/2/0/code_of_conduct.html.
+
+## How to contribute
 
