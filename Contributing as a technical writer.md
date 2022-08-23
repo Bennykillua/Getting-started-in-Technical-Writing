@@ -7,6 +7,18 @@
 
 ## Contributing to open source as a technical writer
 
+Open Source is a term used to describe softwares whose original source code can be freely available, can be redistributed, and also modified. Open Source embodies a spirit of collaboration, transparency, and community-oriented contributions, among other things.
+
+Chech [here](https://benny.hashnode.dev/how-to-contribute-to-open-source-projects-as-a-non-coder#:~:text=you%20to%20contribute.-,Open%20Source,-Projects) to learn more and find open source projects.
+
+## Resources
+
+- [How to Contribute to Open Source Projects as a Non-Coder? by Ifeanyi Benny](https://benny.hashnode.dev/how-to-contribute-to-open-source-projects-as-a-non-coder)
+- [The Technical Writers Guide to Contributing to Open Source Projects by Edidiong Asikpo (Didi)](https://edidiongasikpo.com/the-technical-writers-guide-to-contributing-to-open-source-projects)
+- [Open-Source Projects for Technical Writers by Kesi Parker](https://medium.com/technical-writing-is-easy/open-source-projects-for-technical-writers-de53fb3dd4c9)
+- [How to Contribute to Open Source Projects – A Beginner's Guide by Hillary Nyakundi](https://www.freecodecamp.org/news/how-to-contribute-to-open-source-projects-beginners-guide/)
+
+
 ## Open Source Internship
 
 - [Google's Season of Docs](https://developers.google.com/season-of-docs)
