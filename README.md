@@ -38,6 +38,8 @@ Learn how to make a [contribution](https://github.com/Bennykillua/Getting-starte
 
 - [Resume, portfolio, interviews, and everything in between](https://github.com/Bennykillua/Getting-started-in-Technical-Writing/blob/main/Interviews%20and%20getting%20paid.md)
 
+- [Productivity, writer's block, and everything in between](https://github.com/Bennykillua/Getting-started-in-Technical-Writing/blob/main/Productivity%20and%20everythin%20in%20between.md)
+
 
 ### Getting paid
 
