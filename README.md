@@ -36,6 +36,8 @@ Learn how to make a [contribution](https://github.com/Bennykillua/Getting-starte
 
 - [Contributing to publications and open source as a technical writer](https://github.com/Bennykillua/Getting-started-in-Technical-Writing/blob/main/Contributing%20as%20a%20technical%20writer.md)
 
+- [Resume, portfolio, interviews, and everything in between](https://github.com/Bennykillua/Getting-started-in-Technical-Writing/blob/main/Interviews%20and%20getting%20paid.md)
+
 ### Getting paid
 
 - [Paid Community Writer Programs](https://github.com/malgamves/CommunityWriterPrograms)
