@@ -24,6 +24,8 @@ Learn how to make a [contribution](https://github.com/Bennykillua/Getting-starte
 
 - [SEO](https://github.com/Bennykillua/Getting-started-in-Technical-Writing/blob/main/SEO.md)
 
+- [Docs as Code](https://github.com/Bennykillua/Getting-started-in-Technical-Writing/blob/main/Docs%20as%20Code.md)
+
 - [Technical Writing Courses](https://github.com/Bennykillua/Getting-started-in-Technical-Writing/blob/main/Technical%20Writing%20Courses.md)
 
 - Getting started slides from [Empower Her Community in collaboration with Non Tech in Tech](https://github.com/Bennykillua/Getting-started-in-Technical-Writing/blob/main/Empower%20Her%20X%20Non%20Tech%20in%20Tech.md) Boot camp
