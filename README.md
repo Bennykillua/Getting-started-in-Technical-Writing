@@ -22,9 +22,9 @@ Learn how to make a [contribution](https://github.com/Bennykillua/Getting-starte
 
 - [Technical Writing Resources](https://github.com/Bennykillua/Getting-started-in-Technical-Writing/blob/main/Technical%20Writing%20Resources.md)
 
-- [Search Engine Otimization (SEO)](https://github.com/Bennykillua/Getting-started-in-Technical-Writing/blob/main/SEO.md)
+- [Search Engine Optimization (SEO)](https://github.com/Bennykillua/Getting-started-in-Technical-Writing/blob/main/SEO.md)
 
-- [Docs as Code, dcumentation, APIs, and everything in between](https://github.com/Bennykillua/Getting-started-in-Technical-Writing/blob/main/Docs%20as%20Code.md)
+- [Docs as Code, documentation, APIs, and everything in between](https://github.com/Bennykillua/Getting-started-in-Technical-Writing/blob/main/Docs%20as%20Code.md)
 
 - [Technical Writing Courses](https://github.com/Bennykillua/Getting-started-in-Technical-Writing/blob/main/Technical%20Writing%20Courses.md)
 
