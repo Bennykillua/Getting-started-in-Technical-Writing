@@ -25,3 +25,7 @@ you cna however find courses [here](https://github.com/Bennykillua/Getting-start
 - [The Technical Writing Process: How To Do Technical Writing Like A Pro by Linda Ikechukwu](https://www.everythingtechnicalwriting.com/the-technical-writing-process/)
 - [3 Tricks to Overcome Writer's Block by Ryan Macklin](https://thegooddocsproject.dev/blog/3-tricks-to-overcome-writers-block/?utm_campaign=Everything%20Technical%20Writing%20Newsletter&utm_medium=email&utm_source=Revue%20newsletter)
 - [Technical Writing for Engineers by Veronica Stork](https://draft.dev/learn/technical-writing-for-engineers)
+
+# Style Guide
+
+
