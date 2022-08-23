@@ -25,3 +25,5 @@ It comprises of and is not limited to
 - [Writing Code Examples for Technical Documentation by Brian Murray](https://www.youtube.com/watch?v=_gtzUpvGfXY)
 - [Working with APIs by Knowledge Owl](https://support.knowledgeowl.com/help/working-with-apis)
 - [Getting Started in API Documentation Writing by Robert Delwood](http://writeonce.org/starting_as_a_programmer_writer.php)
+- [Moved my blog from WordPress to Jekyll by Tom Johnson](https://idratherbewriting.com/2015/05/29/moved-my-blog-from-wordpress-to-jekyll/)
+- [Thoughts on docs-as-code after 3 years -- it works! by Tom Johnson](https://idratherbewriting.com/2018/07/03/docs-as-code-after-three-years/)
