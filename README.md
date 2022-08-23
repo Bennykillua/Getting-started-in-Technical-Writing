@@ -22,7 +22,7 @@ Learn how to make a [contribution](https://github.com/Bennykillua/Getting-starte
 
 - [Technical Writing Resources](https://github.com/Bennykillua/Getting-started-in-Technical-Writing/blob/main/Technical%20Writing%20Resources.md)
 
-- [SEO](https://github.com/Bennykillua/Getting-started-in-Technical-Writing/blob/main/SEO.md)
+- [Search engine optimization (SEO)](https://github.com/Bennykillua/Getting-started-in-Technical-Writing/blob/main/SEO.md)
 
 - [Docs as Code](https://github.com/Bennykillua/Getting-started-in-Technical-Writing/blob/main/Docs%20as%20Code.md)
 
