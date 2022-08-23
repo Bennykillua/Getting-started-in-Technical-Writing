@@ -13,10 +13,12 @@ Chech [here](https://benny.hashnode.dev/how-to-contribute-to-open-source-project
 
 ## Resources
 
-- [How to Contribute to Open Source Projects as a Non-Coder? by Ifeanyi Benny](https://benny.hashnode.dev/how-to-contribute-to-open-source-projects-as-a-non-coder)
+- [How to Contribute to Open Source Projects as a Non-Coder? by Ifeanyi Benny Iheagwara](https://benny.hashnode.dev/how-to-contribute-to-open-source-projects-as-a-non-coder)
 - [The Technical Writers Guide to Contributing to Open Source Projects by Edidiong Asikpo (Didi)](https://edidiongasikpo.com/the-technical-writers-guide-to-contributing-to-open-source-projects)
 - [Open-Source Projects for Technical Writers by Kesi Parker](https://medium.com/technical-writing-is-easy/open-source-projects-for-technical-writers-de53fb3dd4c9)
 - [How to Contribute to Open Source Projects – A Beginner's Guide by Hillary Nyakundi](https://www.freecodecamp.org/news/how-to-contribute-to-open-source-projects-beginners-guide/)
+- [Making Your First Open Source Contribution: A Beginner's Guide by Michael Asiedu](https://www.michaelasiedu.com/making-your-first-open-source-contribution-a-beginners-guide)
+
 
 
 ## Open Source Internship
