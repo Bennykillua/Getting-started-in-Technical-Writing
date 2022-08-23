@@ -15,3 +15,7 @@ Check here out for [jobs and gigs](https://github.com/Bennykillua/Getting-starte
     - [Resume Design Guide — Chapter 3 🚩Resume Red Flags🚩](https://medium.com/@SrContentDesign/resume-design-guide-chapter-3-98d6e79e307f)
     - [Resume Design Guide — Chapter 4 Design A Winning Resume](https://medium.com/@SrContentDesign/resume-design-guide-chapter-4-4ad63b50d237)
     - [video: TechWriting.tips - Resume Design for People Who Want Jobs (ft. John Paz)](https://www.youtube.com/watch?v=I4goQZl0Nbs)
+
+- [2 Ways To Make Money As A Freelance Technical Writer by Linda Ikechuwkwu](https://www.everythingtechnicalwriting.com/freelance-technical-writing/)
+
+- 
