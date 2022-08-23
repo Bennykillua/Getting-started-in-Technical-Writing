@@ -89,3 +89,7 @@ In order to discuss changes, you are welcome to [open an issue](https://github.c
 ## Contributions Allowed
 - Fixing grammar mistakes or typos, Editing, or suggesting changes to the listed content
 - Contributing to the content and resources of the repo.
+
+## Need to contact someone?
+
+Please each out to me on Twitter: [Benny Ifeanyi](https://twitter.com/Bennykillua)
