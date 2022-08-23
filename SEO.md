@@ -10,4 +10,7 @@ Search engine optimization (SEO) is the technique of improving a website's or we
 - [Google Search Engine Optimization (SEO) Starter Guide](https://developers.google.com/search/docs/beginner/seo-starter-guide)
 - [Canonical tags: Handling duplicates of contents on URLs by Alemoh Rapheal Baja](https://alemsbaja.hashnode.dev/canonical-tags-handling-duplicates-of-contents-on-urls)
 - [Writing for Hashnode - SEO Handbook](https://web3.hashnode.com/seo-handbook)
+- [SEO for Beginners: An Introduction to SEO Basics](https://www.searchenginejournal.com/seo-guide/)
+- [The Beginner's Guide to SEO: Rankings and traffic through search engine optimization](https://moz.com/beginners-guide-to-seo)
 - 
+
