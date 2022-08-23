@@ -22,6 +22,8 @@ Learn how to make a [contribution](https://github.com/Bennykillua/Getting-starte
 
 - [Technical Writing Resources](https://github.com/Bennykillua/Getting-started-in-Technical-Writing/blob/main/Technical%20Writing%20Resources.md)
 
+- [SEO](https://github.com/Bennykillua/Getting-started-in-Technical-Writing/blob/main/SEO.md)
+
 - [Technical Writing Courses](https://github.com/Bennykillua/Getting-started-in-Technical-Writing/blob/main/Technical%20Writing%20Courses.md)
 
 - Getting started slides from [Empower Her Community in collaboration with Non Tech in Tech](https://github.com/Bennykillua/Getting-started-in-Technical-Writing/blob/main/Empower%20Her%20X%20Non%20Tech%20in%20Tech.md) Boot camp
@@ -30,9 +32,7 @@ Learn how to make a [contribution](https://github.com/Bennykillua/Getting-starte
 
 - [Simple Git commands](https://github.com/Bennykillua/Getting-started-in-Technical-Writing/blob/main/Learning%20Git.MD)
 
-### Contributing to publications and open source as a technical writer
-
-Learn more by taking a look at this [file](https://github.com/Bennykillua/Getting-started-in-Technical-Writing/blob/main/Contributing%20as%20a%20technical%20writer.md)
+- [Contributing to publications and open source as a technical writer](https://github.com/Bennykillua/Getting-started-in-Technical-Writing/blob/main/Contributing%20as%20a%20technical%20writer.md)
 
 ### Getting paid
 
