@@ -27,6 +27,14 @@ Chech [here](https://benny.hashnode.dev/how-to-contribute-to-open-source-project
   Season of Docs provides support for open source projects to improve their documentation and gives professional technical writers an opportunity to gain experience in open source
      - [Google Season Of Docs: Everything You Need To Know To Get Accepted (TCCS #7) by Linda Ikechukwu](https://www.everythingtechnicalwriting.com/get-into-google-season-of-docs/)
      - [How to crack Google season of docs 2022 application stage by Nwokocha Wisdom Maduabuchi](https://wise4rmgodadmob.medium.com/how-to-crack-google-season-of-docs-2022-application-stage-ee248c8425de)
+     - [How to Crack the Google Season of Docs Application Process for 2020 by Edidiong Asikpo (Didi)](https://edidiongasikpo.com/how-to-crack-the-google-season-of-docs-application-process-for-2020)
+     - [Google Season of Docs: What it is and how to get in by Gbadebo Bello ](https://docs.google.com/presentation/d/1An3Y2hWmbJnRUcJ8Vn17dIM4lXUvziOqooBx64e-WKE/edit#slide=id.g11a712d418c_1_6)
+     #### Examples Propsals
+     - [Google Season of Docs proposal for VLC](https://docs.google.com/document/d/1sjHn5OGVZB0EbWHFL9_9Ty63oCF2itlYww2bf9Qhwtc/edit)
+     - [GSoD 2020 Proposal: Improving Wikimedia's onboarding processes and documentation standards](https://phabricator.wikimedia.org/T255360)
+     - 
+    
+
 
 
 - [Outreachy](https://www.outreachy.org/) 
