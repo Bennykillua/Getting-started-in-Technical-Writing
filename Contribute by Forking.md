@@ -92,6 +92,6 @@ In order to discuss changes, you are welcome to [open an issue](https://github.c
 
 ## Need to contact someone?
 
-Please each out to me on Twitter: [Benny Ifeanyi](https://twitter.com/Bennykillua) 
+Please reach out to me on Twitter: [Benny Ifeanyi](https://twitter.com/Bennykillua) 
 
 Please do give this repo a ⭐
