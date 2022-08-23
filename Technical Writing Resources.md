@@ -3,7 +3,7 @@
 
 A curration of learning resources; articles, videos, and much more. 
 
-Find coureses [here](https://github.com/Bennykillua/Getting-started-in-Technical-Writing/blob/main/Technical%20Writing%20Courses.md)
+you cna however find courses [here](https://github.com/Bennykillua/Getting-started-in-Technical-Writing/blob/main/Technical%20Writing%20Courses.md)
 
 # Technical Writing Blogs
 
