@@ -47,7 +47,7 @@ Learn how to make a [contribution](https://github.com/Bennykillua/Getting-starte
 
 - [Who Pays Technical Writers?](https://whopaystechnicalwriters.com/?)
 
-- [Best Content Writing Jobs by Tom](https://contentwritingjobs.com/)
+- [ContentWritingJobs.com by Tom](https://contentwritingjobs.com/)
 
 ### Technical Writing Communities
 
