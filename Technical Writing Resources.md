@@ -17,9 +17,11 @@ Find coureses [here](https://github.com/Bennykillua/Getting-started-in-Technical
 
 # Blogs Post 
 
+- [Some advice if you're just starting out your technical writing career  by Tom Johnson ](https://idratherbewriting.com/blog/career-advice-just-starting-out.html)
 - [Everything You Need To Know About Technical Writing by Linda Ikechukwu](https://www.everythingtechnicalwriting.com/the-technical-writing-process/)
 - [How I Became A Technical Writer With Cynthia Peter by Linda Ikechukwu](https://www.everythingtechnicalwriting.com/everything-you-need-to-know-about-technical-writing/)
 - [My Self Editing Checklist For Technical Writing by Linda Ikechukwu](https://www.everythingtechnicalwriting.com/my-self-editing-checklist-for-technical-writing/)
 - [What Is Technical Content Marketing? by Linda Ikechukwu](https://www.everythingtechnicalwriting.com/technical-content-marketing/)
 - [The Technical Writing Process: How To Do Technical Writing Like A Pro by Linda Ikechukwu](https://www.everythingtechnicalwriting.com/the-technical-writing-process/)
-- 
+- [3 Tricks to Overcome Writer's Block by Ryan Macklin](https://thegooddocsproject.dev/blog/3-tricks-to-overcome-writers-block/?utm_campaign=Everything%20Technical%20Writing%20Newsletter&utm_medium=email&utm_source=Revue%20newsletter)
+- [Technical Writing for Engineers by Veronica Stork](https://draft.dev/learn/technical-writing-for-engineers)
