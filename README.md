@@ -61,6 +61,6 @@ Learn how to make a [contribution](https://github.com/Bennykillua/Getting-starte
 
 ## Need to contact someone?
 
-Please each out to me on Twitter: [Benny Ifeanyi](https://twitter.com/Bennykillua) 
+Please reach out to me on Twitter: [Benny Ifeanyi](https://twitter.com/Bennykillua) 
 
 Please do give this repo a ⭐
