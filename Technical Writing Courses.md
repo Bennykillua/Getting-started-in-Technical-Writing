@@ -11,6 +11,8 @@ Listed below is a curration of courses you can take. Looking for blog post and r
 
 - [Documenting APIs: A guide for technical writers and engineers](https://idratherbewriting.com/learnapidoc/)
 
-- [Technical Writer HQ](https://technicalwriter.teachable.com/p/home?referral_code=6TJ7SI).. [A review](https://www.everythingtechnicalwriting.com/review-of-the-technical-writer-certification-course/)
+- [Docs for Developers: An Engineer’s Field Guide to Technical Writing 1st ed. Edition by Jared Bhatti (Author), Zachary Sarah Corleissen](https://www.amazon.com/dp/1484272161/ref=cm_sw_r_awdo_navT_g_SV4HMY0QJNCGSEZ96T21)
+
+- [Technical Writer HQ](https://technicalwriter.teachable.com/p/home?referral_code=6TJ7SI)
 
 - [API Documentation for Developers by Shalvah](https://apidocsfordevs.com/)
