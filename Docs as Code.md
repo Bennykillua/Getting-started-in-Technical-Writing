@@ -23,4 +23,5 @@ It comprises of and is not limited to
 - [Much Ado About Documentation Structure by Linda Ikechukwu](https://www.everythingtechnicalwriting.com/much-ado-about-software-documentation-structure/)
 - [Defining an efficient documentation structure](https://www.iodigital.com/en/history/foreach/defining-an-efficient-documentation-structure)
 - [Writing Code Examples for Technical Documentation by Brian Murray](https://www.youtube.com/watch?v=_gtzUpvGfXY)
-- 
+- [Working with APIs by Knowledge Owl](https://support.knowledgeowl.com/help/working-with-apis)
+- [Getting Started in API Documentation Writing by Robert Delwood](http://writeonce.org/starting_as_a_programmer_writer.php)
