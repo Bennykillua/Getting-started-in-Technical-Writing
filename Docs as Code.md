@@ -22,3 +22,5 @@ It comprises of and is not limited to
 - [Part 2 Creating a blog with Hugo, Github and Azure Static Web Apps by Pen](https://blog.pensplace.co.uk/post/part-2-creating-a-blog-with-hugogithub-and-azure-static-websites/)
 - [Much Ado About Documentation Structure by Linda Ikechukwu](https://www.everythingtechnicalwriting.com/much-ado-about-software-documentation-structure/)
 - [Defining an efficient documentation structure](https://www.iodigital.com/en/history/foreach/defining-an-efficient-documentation-structure)
+- [Writing Code Examples for Technical Documentation by Brian Murray](https://www.youtube.com/watch?v=_gtzUpvGfXY)
+- 
