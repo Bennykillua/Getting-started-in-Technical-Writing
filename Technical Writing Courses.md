@@ -2,7 +2,8 @@
 
 # Technical Writing Courses
 
-A curration of courses you can take.
+Listed below is a curration of courses you can take. Looking for blog post and resource related to techncial writing? check [here](https://github.com/Bennykillua/Getting-started-in-Technical-Writing/blob/main/Technical%20Writing%20Resources.md)
+
 
 - [Google Technical Writing Courses](https://developers.google.com/tech-writing)
 
