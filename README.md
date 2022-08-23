@@ -44,6 +44,8 @@ Learn how to make a [contribution](https://github.com/Bennykillua/Getting-starte
 
 - [Who Pays Technical Writers?](https://whopaystechnicalwriters.com/?)
 
+- [Best Content Writing Jobs by Tom](https://contentwritingjobs.com/)
+
 ### Technical Writing Communities
 
 *“Alone, we can do so little; together, we can do so much” – Helen Keller*
@@ -56,4 +58,9 @@ Learn how to make a [contribution](https://github.com/Bennykillua/Getting-starte
 
 - [Non Tech in Tech: Technical Writing Clan](https://twitter.com/Nontech_it?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor). Join the slack group [here](https://join.slack.com/t/nontechintech/shared_invite/zt-1elj2fo4m-mi0HWRhkC5R8jjkxw73ikg)
 
-Do give this repo a ⭐
+
+## Need to contact someone?
+
+Please each out to me on Twitter: [Benny Ifeanyi](https://twitter.com/Bennykillua) 
+
+Please do give this repo a ⭐
