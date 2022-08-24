@@ -15,7 +15,8 @@ It comprises of and is not limited to
 
 ## Resources
 
-- [A Technical Writer's Introduction To Docs As Code](https://www.everythingtechnicalwriting.com/dosc-as-code/)
+- [A Technical Writer's Introduction To Docs As Code by Linda Ikechukwu](https://www.everythingtechnicalwriting.com/dosc-as-code/)
+- [Docs-as-code tools](https://idratherbewriting.com/learnapidoc/pubapis_docs_as_code.html)
 - [Docs as Code (Trends to follow or forget) by Tom Johnson](https://idratherbewriting.com/trends/trends-to-follow-or-forget-docs-as-code.html)
 - [Building Docs with docToolchain: A Quickstart Guide by Ifeanyi Benny Iheagwara](http://doctoolchain.org/tutorials/01_Tutorials/010_Quickstart.html)
 - [Part 1 Part 1 - Creating a blog with Hugo, Github and Azure Static Web Apps](https://blog.pensplace.co.uk/post/creating-a-blog-with-hugo-github-and-azure-static-web-sites/)
