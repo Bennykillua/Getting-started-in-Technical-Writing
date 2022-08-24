@@ -18,4 +18,4 @@ Check here out for [jobs and gigs](https://github.com/Bennykillua/Getting-starte
 
 - [2 Ways To Make Money As A Freelance Technical Writer by Linda Ikechuwkwu](https://www.everythingtechnicalwriting.com/freelance-technical-writing/)
 
-- 
+- [Video: 6 Inspiring Technical Writing Portfolios (+ my new portfolio) by Amruta Ranade](https://www.youtube.com/watch?v=crePAmhdpww)
