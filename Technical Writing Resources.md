@@ -17,6 +17,7 @@ you cna however find courses [here](https://github.com/Bennykillua/Getting-start
 
 # Blogs Post 
 
+- [The Evolution of Technical Writing by Tom Johnson](https://idratherbewriting.com/2014/11/07/the-evolution-of-technical-writing/)
 - [Some advice if you're just starting out your technical writing career  by Tom Johnson ](https://idratherbewriting.com/blog/career-advice-just-starting-out.html)
 - [Everything You Need To Know About Technical Writing by Linda Ikechukwu](https://www.everythingtechnicalwriting.com/the-technical-writing-process/)
 - [How I Became A Technical Writer With Cynthia Peter by Linda Ikechukwu](https://www.everythingtechnicalwriting.com/everything-you-need-to-know-about-technical-writing/)
