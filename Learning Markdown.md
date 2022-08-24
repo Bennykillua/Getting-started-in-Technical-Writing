@@ -29,5 +29,6 @@ this will display:
 3. [Another paragraph](#paragraph2)
 
 # Resources
-- https://www.tablesgenerator.com/markdown_tables
+- [Table Generator](https://www.tablesgenerator.com/markdown_tables)
 - [Markdown badges](https://github.com/Ileriayo/markdown-badges)
+- [The markdown guide](https://www.markdownguide.org/)
