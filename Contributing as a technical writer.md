@@ -18,6 +18,7 @@ Chech [here](https://benny.hashnode.dev/how-to-contribute-to-open-source-project
 - [Open-Source Projects for Technical Writers by Kesi Parker](https://medium.com/technical-writing-is-easy/open-source-projects-for-technical-writers-de53fb3dd4c9)
 - [How to Contribute to Open Source Projects – A Beginner's Guide by Hillary Nyakundi](https://www.freecodecamp.org/news/how-to-contribute-to-open-source-projects-beginners-guide/)
 - [Making Your First Open Source Contribution: A Beginner's Guide by Michael Asiedu](https://www.michaelasiedu.com/making-your-first-open-source-contribution-a-beginners-guide)
+- [Contributing to Open Source Beyond Software Development by Ifeanyi Benny Iheagwara](https://klarasystems.com/articles/contributing-to-open-source-beyond-software-development/)
 
 
 
