@@ -22,6 +22,9 @@ Chech [here](https://benny.hashnode.dev/how-to-contribute-to-open-source-project
 
 
 
+## Open Source Projects
+- [Updating Airbyte Documentation](https://docs.airbyte.com/contributing-to-airbyte/updating-documentation/) 
+
 ## Open Source Internship
 
 - [Google's Season of Docs](https://developers.google.com/season-of-docs)
