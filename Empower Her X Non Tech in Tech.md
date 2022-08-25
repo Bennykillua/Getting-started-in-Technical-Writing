@@ -19,7 +19,7 @@ A community of Non-techies in Africa. You can join the slack group [here](https:
 
 - Pelumi Timonwa Akintokun - [Linkedin](https://www.linkedin.com/in/pelumi-akintokun/) [Twitter](https://twitter.com/timonwa_) [GitHub](https://github.com/timonwa)
 
-- Segun Olumide - [Linkedin](https://www.linkedin.com/in/wonexo/) [Twitter](https://twitter.com/wonexo)
+- Segun Light Olumide - [Linkedin](https://www.linkedin.com/in/wonexo/) [Twitter](https://twitter.com/wonexo)
 
 Learn more [here](https://twitter.com/empowerhercom/status/1554066239047274498?s=20&t=FpcUvRbr0vroejf1fneanw).
 
