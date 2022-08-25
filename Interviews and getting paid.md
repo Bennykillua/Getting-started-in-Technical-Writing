@@ -3,6 +3,9 @@
 
 Check here out for [jobs and gigs](https://github.com/Bennykillua/Getting-started-in-Technical-Writing#getting-paid:~:text=everything%20in%20between-,Getting%20paid,-Paid%20Community%20Writer)
 
+## portfolio
+- [Zach Holman!'s blog](https://zachholman.com/)
+
 ## Resources
 
 - [Technical Writer Interview: What To Expect From Personal Experience by Linda Ikechukwu](https://www.everythingtechnicalwriting.com/technical-writer-interview/)
