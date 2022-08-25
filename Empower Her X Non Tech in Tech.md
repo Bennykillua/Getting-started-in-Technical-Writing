@@ -31,7 +31,7 @@ Learn more [here](https://twitter.com/empowerhercom/status/1554066239047274498?s
 
 - [Tools used in Technical Writing by Benny, Blessing, and Timonwa](https://docs.google.com/presentation/d/1mtu9CryVeydr9y_YmL9PUAM5Sv_ZPO6pwDlPAiqsk7Q/edit?usp=sharing)
 
-- [The Writing Process by Blessing, and Timonwa](https://docs.google.com/presentation/d/1p4ftBJtoDG02H4yRaxEBNWnuGllChiqm64qmpeIHYiA/edit?usp=sharing)
+- [The Writing Process by Blessing and Timonwa](https://docs.google.com/presentation/d/1p4ftBJtoDG02H4yRaxEBNWnuGllChiqm64qmpeIHYiA/edit?usp=sharing)
 
 - [Search Engine Optimization In Technical Writing by Blessing](https://docs.google.com/presentation/d/1xLdw45nrxWwARveF7e2cNq7HWQKX_2fYNNU23Lr7LF4/edit?usp=sharing)
 
