@@ -2,7 +2,7 @@
 
 # Getting Started in Technical Writing
 
-A compilation of resources for anyone who wants to get started in technical writing.
+A compilation of resources for anyone who wants to get started or learn more about technical writing.
 
 ## Contributors
 
