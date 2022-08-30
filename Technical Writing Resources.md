@@ -3,7 +3,7 @@
 
 A curration of learning resources; articles, videos, and much more. 
 
-you cna however find courses [here](https://github.com/Bennykillua/Getting-started-in-Technical-Writing/blob/main/Technical%20Writing%20Courses.md)
+you can however find courses [here](https://github.com/Bennykillua/Getting-started-in-Technical-Writing/blob/main/Technical%20Writing%20Courses.md)
 
 # Technical Writing Blogs
 
@@ -18,6 +18,7 @@ you cna however find courses [here](https://github.com/Bennykillua/Getting-start
 # Blogs Post 
 
 - [The Evolution of Technical Writing by Tom Johnson](https://idratherbewriting.com/2014/11/07/the-evolution-of-technical-writing/)
+- [Outline example by Benny Ifeanyi Iheagwara](https://docs.google.com/document/d/17P89X7Cu4-KUCnbLg5KfQmiV2e-yTbf1xQRx54pZ65s/edit?usp=sharing)
 - [Some advice if you're just starting out your technical writing career  by Tom Johnson ](https://idratherbewriting.com/blog/career-advice-just-starting-out.html)
 - [Everything You Need To Know About Technical Writing by Linda Ikechukwu](https://www.everythingtechnicalwriting.com/the-technical-writing-process/)
 - [How I Became A Technical Writer With Cynthia Peter by Linda Ikechukwu](https://www.everythingtechnicalwriting.com/everything-you-need-to-know-about-technical-writing/)
