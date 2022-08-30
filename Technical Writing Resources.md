@@ -26,6 +26,9 @@ you can however find courses [here](https://github.com/Bennykillua/Getting-start
 - [What Is Technical Content Marketing? by Linda Ikechukwu](https://www.everythingtechnicalwriting.com/technical-content-marketing/)
 - [The Technical Writing Process: How To Do Technical Writing Like A Pro by Linda Ikechukwu](https://www.everythingtechnicalwriting.com/the-technical-writing-process/)
 - [Technical Writing for Engineers by Veronica Stork](https://draft.dev/learn/technical-writing-for-engineers)
+- [My Tech Writing Process by Amruta Ranade](https://amrutaranade.com/2018/03/07/my-writing-process/)
+- [What do Technical Writers do? (Also, what is Technical Writing?) by Amruta Ranade](https://www.youtube.com/watch?v=biocrCx5T_k)
+- [Is Technical Writing the Right Career for You?  by Amruta Ranade](https://www.notion.so/Is-Technical-Writing-the-Right-Career-for-You-3085604c58ad453086331cdabf1953c5)
 
 # Style Guide
 
