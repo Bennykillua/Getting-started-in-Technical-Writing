@@ -49,6 +49,12 @@ Learn how to make a [contribution](https://github.com/Bennykillua/Getting-starte
 
 - [ContentWritingJobs.com by Tom](https://contentwritingjobs.com/)
 
+- [Write the Docs Job Board](https://jobs.writethedocs.org/)
+
+- [Remotive](https://remotive.com/)
+
+- [Startup.jobs](https://startup.jobs/)
+
 ### Technical Writing Communities
 
 *“Alone, we can do so little; together, we can do so much” – Helen Keller*
