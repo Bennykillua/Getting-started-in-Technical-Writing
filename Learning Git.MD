@@ -239,3 +239,7 @@
 </details>
 
 ---
+
+## Resources
+- [GitHub for Beginners by Amruta Ranade](https://amrutaranade.com/2018/03/02/github-for-beginners/)
+
