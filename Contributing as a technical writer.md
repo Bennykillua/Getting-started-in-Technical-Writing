@@ -4,6 +4,16 @@
 
 ## Contributing to publications as a technical writer
 
+You can contribute by writing for a few publications. Though you wouldn't be paid, you get visibility and a chance to share your knowledge with a broader audience while being recognized as a subject matter expert. The best part is that most of these publications have in-house editors, so you get better at writing. 
+
+For paid opportunities, please check out the [getting paid session](https://github.com/Bennykillua/Getting-started-in-Technical-Writing#:~:text=everything%20in%20between-,Getting,-paid)
+
+## Publications
+- [FreeCodeCamp](https://www.freecodecamp.org/news/how-to-write-for-freecodecamp/).. apply [here](https://www.freecodecamp.org/news/developer-news-style-guide/)
+- [Microsoft 365 Platform Community Blog](https://pnp.github.io/blog/post/contribute-blog/)
+- [Towards Data Science](https://towardsdatascience.com/questions-96667b06af5)
+- [Analytics Vidhya](https://medium.com/analytics-vidhya/why-write-for-analytics-vidhya-6c7ea8f0aeef)
+- [Opensource.com](https://opensource.com/writers)
 
 ## Contributing to open source as a technical writer
 
@@ -19,7 +29,6 @@ Chech [here](https://benny.hashnode.dev/how-to-contribute-to-open-source-project
 - [How to Contribute to Open Source Projects – A Beginner's Guide by Hillary Nyakundi](https://www.freecodecamp.org/news/how-to-contribute-to-open-source-projects-beginners-guide/)
 - [Making Your First Open Source Contribution: A Beginner's Guide by Michael Asiedu](https://www.michaelasiedu.com/making-your-first-open-source-contribution-a-beginners-guide)
 - [Contributing to Open Source Beyond Software Development by Ifeanyi Benny Iheagwara](https://klarasystems.com/articles/contributing-to-open-source-beyond-software-development/)
-
 
 
 ## Open Source Projects
@@ -40,11 +49,14 @@ Chech [here](https://benny.hashnode.dev/how-to-contribute-to-open-source-project
     
 
 
-
 - [Outreachy](https://www.outreachy.org/) 
  Outreachy provides internships in open source and open science to people subject to systemic bias and impacted by underrepresentation in the technical industry where they are living.
     - [Get the most out of your Outreachy Intern application process by Joannah Nanjekye](https://www.freecodecamp.org/news/get-the-most-out-of-your-outreachy-application-process-937d4a8ab4bf)
     - [How I got into Mozilla’s Outreachy open source internship program by Shubheksha](https://www.freecodecamp.org/news/outreachy-what-how-why-4fb60d10a228)
+    - [Outreachy Internship: My Experience by Nmeso](https://medium.com/@nmesoegwuekwe/outreachy-internship-my-experience-aecb3fb2791b)
+    - [Everyone Struggles: struggles as an intern for the Outreachy internships by Nmeso](https://medium.com/@nmesoegwuekwe/everyone-struggles-c8c33233a764)
+    - [Getting into outreachy by Nmeso](https://nmesoegwuekwe.github.io/getting-into-outreachy/)
+    
 
 
 - [GNOME OPW Applicants](https://wiki.gnome.org/GnomeWomen/OutreachProgram2012#Outreach_Program_for_Women) GNOME Outreach Program for Women internships
