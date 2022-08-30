@@ -25,14 +25,16 @@ Chech [here](https://benny.hashnode.dev/how-to-contribute-to-open-source-project
 
 - [How to Contribute to Open Source Projects as a Non-Coder? by Ifeanyi Benny Iheagwara](https://benny.hashnode.dev/how-to-contribute-to-open-source-projects-as-a-non-coder)
 - [The Technical Writers Guide to Contributing to Open Source Projects by Edidiong Asikpo (Didi)](https://edidiongasikpo.com/the-technical-writers-guide-to-contributing-to-open-source-projects)
-- [Open-Source Projects for Technical Writers by Kesi Parker](https://medium.com/technical-writing-is-easy/open-source-projects-for-technical-writers-de53fb3dd4c9)
 - [How to Contribute to Open Source Projects – A Beginner's Guide by Hillary Nyakundi](https://www.freecodecamp.org/news/how-to-contribute-to-open-source-projects-beginners-guide/)
 - [Making Your First Open Source Contribution: A Beginner's Guide by Michael Asiedu](https://www.michaelasiedu.com/making-your-first-open-source-contribution-a-beginners-guide)
 - [Contributing to Open Source Beyond Software Development by Ifeanyi Benny Iheagwara](https://klarasystems.com/articles/contributing-to-open-source-beyond-software-development/)
+- [Reader question: Contributing docs to open source projects by Amruta Ranade](https://amrutaranade.com/2018/06/17/reader-question-contributing-docs-to-open-source-projects/)
 
 
 ## Open Source Projects
 - [Updating Airbyte Documentation](https://docs.airbyte.com/contributing-to-airbyte/updating-documentation/) 
+- [List of Open Source Projects with Documentation Opportunities by Amruta Ranade](https://amrutaranade.com/2018/03/21/list-of-open-source-projects-that-accept-docs-contributions/)
+- [Open-Source Projects for Technical Writers by Kesi Parker](https://medium.com/technical-writing-is-easy/open-source-projects-for-technical-writers-de53fb3dd4c9)
 
 ## Open Source Internship
 
@@ -42,10 +44,12 @@ Chech [here](https://benny.hashnode.dev/how-to-contribute-to-open-source-project
      - [How to crack Google season of docs 2022 application stage by Nwokocha Wisdom Maduabuchi](https://wise4rmgodadmob.medium.com/how-to-crack-google-season-of-docs-2022-application-stage-ee248c8425de)
      - [How to Crack the Google Season of Docs Application Process for 2020 by Edidiong Asikpo (Didi)](https://edidiongasikpo.com/how-to-crack-the-google-season-of-docs-application-process-for-2020)
      - [Google Season of Docs: What it is and how to get in by Gbadebo Bello ](https://docs.google.com/presentation/d/1An3Y2hWmbJnRUcJ8Vn17dIM4lXUvziOqooBx64e-WKE/edit#slide=id.g11a712d418c_1_6)
+     - [Why you should participate in Google Season of Docs by Amruta Ranade](https://amrutaranade.com/2019/05/10/why-you-should-participate-in-google-season-of-docs/)
+     - 
      #### Examples Propsals
      - [Google Season of Docs proposal for VLC](https://docs.google.com/document/d/1sjHn5OGVZB0EbWHFL9_9Ty63oCF2itlYww2bf9Qhwtc/edit)
      - [GSoD 2020 Proposal: Improving Wikimedia's onboarding processes and documentation standards](https://phabricator.wikimedia.org/T255360)
-     - 
+     - [[2020] Season of Docs // Free resource for writing proposals](https://techwriting.ck.page/writing-proposals)
     
 
 
