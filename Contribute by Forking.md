@@ -21,7 +21,7 @@ You can make simple contribution like
 - Editing or suggesting changes to the listed content
 - As well as contributing to the content and resources of the repo.
 
-This [video](https://youtu.be/dc6ZQEa3i1c) explains how you can make a contribution right on GitHub.
+This [video](https://www.youtube.com/watch?v=dc6ZQEa3i1c) explains how you can make a contribution right on GitHub.
 
 ## How to make a Pull Request (PR)
 
