@@ -14,7 +14,16 @@ Before making any contributions, please ensure you have read our [Code of Conduc
 
 - Add screenshots to your Pull Request when necessary to help us understand the effects of the changes proposed in your PR.
 
-## HOW to make a Pull Request (PR)
+## Making contributions via GitHub
+
+You can make simple contribution like 
+- Fixing grammar mistakes or typos
+- Editing or suggesting changes to the listed content
+- As well as contributing to the content and resources of the repo.
+
+This video explains 
+
+## How to make a Pull Request (PR)
 
 This guide was a modification of the [Microsoft 365 Platform Community Blog: How to contribute guide](https://pnp.github.io/blog/post/contribute-blog/)
 
@@ -86,9 +95,6 @@ This repository is maintained by volunteers in their free time, please be kind. 
 
 In order to discuss changes, you are welcome to [open an issue](https://github.com/Bennykillua/Getting-started-in-Technical-Writing/issues/new) about what you would like to contribute or see in this repo. 
 
-## Contributions Allowed
-- Fixing grammar mistakes or typos, Editing, or suggesting changes to the listed content
-- Contributing to the content and resources of the repo.
 
 ## Need to contact someone?
 
