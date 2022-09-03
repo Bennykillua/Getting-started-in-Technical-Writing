@@ -15,6 +15,8 @@ you can however find courses [here](https://github.com/Bennykillua/Getting-start
 
 - [Everything Technical Writing](https://www.everythingtechnicalwriting.com/) by Linda Ikechukwu [Linkedin](https://www.linkedin.com/in/linda-ikechukwu/) [Twitter](https://twitter.com/_MsLinda)
 
+- [APIS YOU WON'T HATE](https://apisyouwonthate.com/)
+
 # Blogs Post 
 
 - [The Evolution of Technical Writing by Tom Johnson](https://idratherbewriting.com/2014/11/07/the-evolution-of-technical-writing/)
@@ -31,5 +33,10 @@ you can however find courses [here](https://github.com/Bennykillua/Getting-start
 - [Is Technical Writing the Right Career for You?  by Amruta Ranade](https://www.notion.so/Is-Technical-Writing-the-Right-Career-for-You-3085604c58ad453086331cdabf1953c5)
 
 # Style Guide
+
+## Resources 
+
+- [How to Write a Style Guide as a Technical Writer: Best practices and what to avoid when developing a guide. by Light Segun Olumide](https://wonexo.hashnode.dev/how-to-write-a-style-guide-as-a-technical-writer)
+
 
 
