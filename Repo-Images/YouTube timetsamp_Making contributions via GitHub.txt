@@ -1,0 +1,13 @@
+0:00 Accessing the repo
+
+1:45 Forking a repo 
+
+2:58 A Walkthrough
+
+06:12 Making your first GitHub contribution
+
+10:39 Creating a Pull Request
+
+12:23 Merging a Pull Request
+
+16:11 First time issues with Airbyte Documentation
