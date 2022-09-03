@@ -18,8 +18,9 @@ It comprises of and is not limited to
 
 ## Resources
 
-- [The Best Content to Supplement Your API Documentation by Karl Hughes](https://apisyouwonthate.com/blog/supplementing-documentation)
-[Learning API Documentation](https://idratherbewriting.com/category-api-doc/)
+-  [APIS YOU WON'T HATE](https://apisyouwonthate.com/)
+-  [The Best Content to Supplement Your API Documentation by Karl Hughes](https://apisyouwonthate.com/blog/supplementing-documentation)
+-  [Learning API Documentation](https://idratherbewriting.com/category-api-doc/)
 - [A Technical Writer's Introduction To Docs As Code by Linda Ikechukwu](https://www.everythingtechnicalwriting.com/dosc-as-code/)
 - [Docs-as-code tools](https://idratherbewriting.com/learnapidoc/pubapis_docs_as_code.html)
 - [Docs as Code (Trends to follow or forget) by Tom Johnson](https://idratherbewriting.com/trends/trends-to-follow-or-forget-docs-as-code.html)
