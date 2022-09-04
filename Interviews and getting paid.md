@@ -10,6 +10,8 @@ Check here out for [jobs and gigs](https://github.com/Bennykillua/Getting-starte
 
 ## Resources
 
+- [ Finding Opportunities as an Entry Level Technical Writer by Karl Hughes](https://draft.dev/learn/finding-opportunities-as-an-entry-level-technical-writer)
+
 - [Technical Writer Interview: What To Expect From Personal Experience by Linda Ikechukwu](https://www.everythingtechnicalwriting.com/technical-writer-interview/)
 
 - [How To Create A Technical Writing Portfolio by Linda Ikechukwu](https://www.everythingtechnicalwriting.com/technical-writing-portfolio/)
