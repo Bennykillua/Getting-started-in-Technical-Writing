@@ -4,6 +4,8 @@
 
 A compilation of resources for anyone who wants to get started or learn more about technical writing.
 
+If you like our project then we would really appreciate a Star ⭐!
+
 ## Contributors
 
 This project exists thanks to all the people who contribute! ❤️ 💙
