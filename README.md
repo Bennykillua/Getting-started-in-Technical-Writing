@@ -4,7 +4,7 @@
 
 A compilation of resources for anyone who wants to get started or learn more about technical writing.
 
-If you like our project then we would really appreciate a Star ⭐!
+If you like our project then we would really appreciate a Star ⭐
 
 ## Contributors
 
@@ -74,4 +74,4 @@ Learn how to make a [contribution](https://github.com/Bennykillua/Getting-starte
 
 Please reach out to me on Twitter: [Benny Ifeanyi](https://twitter.com/Bennykillua) or [Linkedin](https://www.linkedin.com/in/ifeanyi-iheagwara/)
 
-If you like our project then we would really appreciate a Star ⭐!
+If you like our project then we would really appreciate a Star ⭐
