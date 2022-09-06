@@ -12,4 +12,5 @@
 - [A Day in the Life of a Contract Technical Writer in Australia by Amruta Ranade](https://amrutaranade.com/2018/04/18/a-day-in-the-life-of-a-contract-technical-writer-in-australia/)
 - [Collaboration and/in Technical Communication (from the Perspective of a Tech Comm PhD Student) by Amruta Ranade](https://amrutaranade.com/2018/04/11/collaboration-and-in-technical-communication-from-the-perspective-of-a-tech-comm-phd-student/)
 - [A Day in the Life of a Freelance Technical Writer by Amruta Ranade](https://amrutaranade.com/2018/04/04/a-day-in-the-life-of-a-freelance-technical-writer/)
+- [Sunk Cost Fallacy: Definition and Examples by Lindsay Kramer](https://www.grammarly.com/blog/sunk-cost-fallacy/?utm_source=BlogNL&utm_medium=email&utm_campaign=B2C_090322&utm_content=email)
 - 
