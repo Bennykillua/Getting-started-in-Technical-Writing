@@ -41,3 +41,5 @@ Learn more [here](https://twitter.com/empowerhercom/status/1554066239047274498?s
 - [Fabusuyi deborah My experience at EHCXNTIT Technical Writing Bootcamp](https://medium.com/@fabusuyideborah03/my-experience-at-ehc-x-ntit-bootcamp-47fdae6baad3)
 
 - [Falomo sharon simisola](https://github.com/falsharion) [ Getting started in Technical Writing EHCXNTIT](https://falomosharon.hashnode.dev/getting-started-in-technical-writing)
+
+- [Folami Oluwapelumi](https://github.com/Pep7799) [My Experience at the EHC X NTIT Technical Writing Bootcamp](https://supergirlp.hashnode.dev/my-experience-at-the-empower-her-community-x-non-tech-in-tech-bootcamp)
