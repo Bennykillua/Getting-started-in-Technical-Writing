@@ -10,6 +10,8 @@ If you like our project then we would really appreciate a Star ⭐
 
 This project exists thanks to all the people who contribute! ❤️ 💙
 
+<img src=https://octodex.github.com/images/jetpacktocat.png alt=celebrate width=300 align=right>
+
 View our list of contributors [here](https://github.com/Bennykillua/Getting-started-in-Technical-Writing/blob/main/Contributor.md)
 
 ## How to contribute?
