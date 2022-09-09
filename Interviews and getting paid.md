@@ -34,5 +34,6 @@ Check here out for [jobs and gigs](https://github.com/Bennykillua/Getting-starte
 - [Writing a cover letter for a technical writing job by Amruta Ranade](https://amrutaranade.com/2018/01/24/writing-a-cover-letter-for-a-technical-writing-job/)
 - [Crafting your technical writing resume by Amruta Ranade](https://amrutaranade.com/2018/01/17/crafting-your-technical-writing-resume/)
 - [How to conduct an effective job search in technical writing by Amruta Ranade](https://amrutaranade.com/2018/01/10/how-to-conduct-an-effective-job-search-in-technical-writing/)
+- [Cover Letter Template for your next job 💪🏽 by Dillion Megida](https://dillionmegida.com/p/cover-letter-template/)
 
 
