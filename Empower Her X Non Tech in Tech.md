@@ -1,4 +1,3 @@
-
 # Empower Her Community in collaboration with Non Tech in Tech Bootcamp
 
 Read this article to learn more about the [bootcamp](https://nontechintech.substack.com/p/nontechnicalbootcamp?r=k766r&s=w&utm_campaign=post&utm_medium=web&utm_source=direct)
@@ -11,7 +10,7 @@ A female community seeing to the growth and progress of women in tech. You can j
 
 A community of Non-techies in Africa. You can join the slack group [here](https://join.slack.com/t/nontechintech/shared_invite/zt-1elj2fo4m-mi0HWRhkC5R8jjkxw73ikg)
 
-## Tutors 
+## Tutors
 
 - Benny Ifeanyi Iheagwara - [Linkedin](https://www.linkedin.com/in/ifeanyi-iheagwara/) [Twitter](https://twitter.com/Bennykillua) [GitHub](https://github.com/Bennykillua)
 
@@ -38,8 +37,10 @@ Learn more [here](https://twitter.com/empowerhercom/status/1554066239047274498?s
 - [Open Source and the Real World by Benny, Blessing, and Timonwa](https://docs.google.com/presentation/d/19QLEWGtSAdsvFsHLWOdIlLx6hnI-M6ZcS8XcczEQhcE/edit?usp=sharing)
 
 ## Articles
+
 - [Fabusuyi deborah My experience at EHCXNTIT Technical Writing Bootcamp](https://medium.com/@fabusuyideborah03/my-experience-at-ehc-x-ntit-bootcamp-47fdae6baad3)
 
 - [Falomo sharon simisola](https://github.com/falsharion) [ Getting started in Technical Writing EHCXNTIT](https://falomosharon.hashnode.dev/getting-started-in-technical-writing)
 
 - [Folami Oluwapelumi](https://github.com/Pep7799) [My Experience at the EHC X NTIT Technical Writing Bootcamp](https://supergirlp.hashnode.dev/my-experience-at-the-empower-her-community-x-non-tech-in-tech-bootcamp)
+- [Teniola Olowookere](https://github.com/Teniola-theDev) [My Experience at the EHC X NTIT Technical Writing Bootcamp](https://teniolaxyz.hashnode.dev/my-experience-at-the-empower-her-community-x-non-tech-in-tech-bootcamp)
