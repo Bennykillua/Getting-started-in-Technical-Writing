@@ -1,6 +1,8 @@
 
 # Docs as Code, documentation, APIs, and everything in between
 
+You can find documentation courses [here](https://github.com/Bennykillua/Getting-started-in-Technical-Writing/blob/main/Technical%20Writing%20Courses.md)
+
 ## Docs as Code
 
 Docs-as-code refers to handling your documentation the same way programmers handle code. This method is ideal for technical teams since everyone creates documents using the same tools, procedures, and workflows that they utilize while developing software.
@@ -19,6 +21,7 @@ It comprises of and is not limited to
 ## Resources
 
 -  [APIS YOU WON'T HATE](https://apisyouwonthate.com/)
+-  [Getting Started in API Documentation Writing by Robert Delwood](http://writeonce.org/starting_as_a_programmer_writer.php)
 -  [What is a Static Site Generator? And 3 ways to find the best one by Phil Hawksworth](https://www.netlify.com/blog/2020/04/14/what-is-a-static-site-generator-and-3-ways-to-find-the-best-one/)
 -  [The Best Content to Supplement Your API Documentation by Karl Hughes](https://apisyouwonthate.com/blog/supplementing-documentation)
 -  [Learning API Documentation](https://idratherbewriting.com/category-api-doc/)
