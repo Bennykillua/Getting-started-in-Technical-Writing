@@ -17,3 +17,5 @@ Listed below is a curration of courses you can take. Looking for blog post and r
 - [Technical Writer HQ](https://technicalwriter.teachable.com/p/home?referral_code=6TJ7SI)
 
 - [API Documentation for Developers by Shalvah](https://apidocsfordevs.com/)
+
+- [Readthedocs Writing Documentation](https://docs-guide.readthedocs.io/en/latest/writing/)
