@@ -3,7 +3,7 @@
 
 A curration of learning resources; articles, videos, and much more. 
 
-you can however find courses [here](https://github.com/Bennykillua/Getting-started-in-Technical-Writing/blob/main/Technical%20Writing%20Courses.md)
+You can however find courses [here](https://github.com/Bennykillua/Getting-started-in-Technical-Writing/blob/main/Technical%20Writing%20Courses.md)
 
 # Technical Writing Blogs
 
@@ -38,6 +38,11 @@ you can however find courses [here](https://github.com/Bennykillua/Getting-start
 ## Resources 
 
 - [How to Write a Style Guide as a Technical Writer: Best practices and what to avoid when developing a guide. by Light Segun Olumide](https://wonexo.hashnode.dev/how-to-write-a-style-guide-as-a-technical-writer)
+
+- [Microsoft Writing Style Guide](https://docs.microsoft.com/en-us/style-guide/welcome/)
+- [Google developer documentation style guide](https://developers.google.com/style)
+- [Gitlab Documentation Style Guide](https://docs.gitlab.com/ee/development/documentation/styleguide/)
+- [Gatsby Style Guide](https://www.gatsbyjs.com/contributing/gatsby-style-guide/)
 
 
 
