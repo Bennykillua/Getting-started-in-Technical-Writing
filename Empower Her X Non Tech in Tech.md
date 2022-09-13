@@ -49,3 +49,5 @@ Learn more [here](https://twitter.com/empowerhercom/status/1554066239047274498?s
 - [Halimat Chisom](https://github.com/Chisomgold): [My Experience at the EHC X NTIT Technical Writing Bootcamp](https://medium.com/@gearthdexter/bootcamp-experience-with-empower-her-x-non-tech-in-tech-technical-writing-de590524c2ce)
 
 - [Mbah Uzoma What I learned at The Empower her Community and Non-Tech in Tech Bootcamp](https://amytex5.hashnode.dev/what-i-learned-during-the-empower-her-community-and-non-tech-in-tech-bootcamp)
+
+- [Francesca Akibu](https://github.com/ThisChes):[ Becoming A Technical Writer: My Experience at Empower Her Community X NTIT Bootcamp](https://medium.com/@francescaobadan01/becoming-a-technical-writer-my-experience-at-empower-her-community-x-ntit-bootcamp-e611e9fbf6a0)
