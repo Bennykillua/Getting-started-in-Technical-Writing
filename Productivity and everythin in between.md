@@ -13,4 +13,5 @@
 - [Collaboration and/in Technical Communication (from the Perspective of a Tech Comm PhD Student) by Amruta Ranade](https://amrutaranade.com/2018/04/11/collaboration-and-in-technical-communication-from-the-perspective-of-a-tech-comm-phd-student/)
 - [A Day in the Life of a Freelance Technical Writer by Amruta Ranade](https://amrutaranade.com/2018/04/04/a-day-in-the-life-of-a-freelance-technical-writer/)
 - [Sunk Cost Fallacy: Definition and Examples by Lindsay Kramer](https://www.grammarly.com/blog/sunk-cost-fallacy/?utm_source=BlogNL&utm_medium=email&utm_campaign=B2C_090322&utm_content=email)
-- 
+- [An Original Framework to Guide Discovery For Your Next Technical Writing Project by Todd Lewandowski](https://toddlewandowski.medium.com/an-original-framework-to-guide-discovery-for-your-next-technical-writing-project-89d18b8fc79a)
+- [What it’s like working with an editor by Giles Turnbull](https://www.usethehumanvoice.com/edit/?utm_campaign=Everything%20Technical%20Writing%20Newsletter&utm_medium=email&utm_source=Revue%20newsletter)
