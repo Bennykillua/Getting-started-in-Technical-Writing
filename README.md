@@ -60,6 +60,8 @@ Learn how to make a [contribution](https://github.com/Bennykillua/Getting-starte
 
 - [Startup.jobs](https://startup.jobs/)
 
+- [Draft.dev](https://github.com/draftdev/jobs)
+
 ### Technical Writing Communities
 
 *“Alone, we can do so little; together, we can do so much” – Helen Keller*
