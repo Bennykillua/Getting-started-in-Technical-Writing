@@ -17,6 +17,10 @@ You can however find courses [here](https://github.com/Bennykillua/Getting-start
 
 - [APIS YOU WON'T HATE](https://apisyouwonthate.com/)
 
+# Community resources
+
+- [Write the doc Kenya](https://drive.google.com/drive/folders/1Nnvz3Qj2bHu0bw4zbivsXAlDkD9cjDmt)
+
 # Blogs Post 
 
 - [The Evolution of Technical Writing by Tom Johnson](https://idratherbewriting.com/2014/11/07/the-evolution-of-technical-writing/)
