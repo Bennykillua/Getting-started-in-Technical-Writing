@@ -14,6 +14,7 @@ For paid opportunities, please check out the [getting paid session](https://gith
 - [Towards Data Science](https://towardsdatascience.com/questions-96667b06af5)
 - [Analytics Vidhya](https://medium.com/analytics-vidhya/why-write-for-analytics-vidhya-6c7ea8f0aeef)
 - [Opensource.com](https://opensource.com/writers)
+- [Write the docs Kenya hashnode](https://drive.google.com/drive/folders/1ejHyEvkJCfnvQ3T9sSdHqElI8JxBfczM)
 
 ## Contributing to open source as a technical writer
 
