@@ -6,7 +6,7 @@
 
 You can contribute by writing for a few publications. Though you wouldn't be paid, you get visibility and a chance to share your knowledge with a broader audience while being recognized as a subject matter expert. The best part is that most of these publications have in-house editors, so you get better at writing. 
 
-For paid opportunities, please check out the [getting paid session](https://github.com/Bennykillua/Getting-started-in-Technical-Writing#:~:text=everything%20in%20between-,Getting,-paid)
+For paid opportunities, please check out the [getting paid session](https://github.com/Bennykillua/Getting-started-in-Technical-Writing/blob/main/README.md)
 
 ## Publications
 - [FreeCodeCamp](https://www.freecodecamp.org/news/how-to-write-for-freecodecamp/).. apply [here](https://www.freecodecamp.org/news/developer-news-style-guide/)
