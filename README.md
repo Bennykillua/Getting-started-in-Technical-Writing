@@ -74,6 +74,12 @@ Learn how to make a [contribution](https://github.com/Bennykillua/Getting-starte
 
 - [Non Tech in Tech: Technical Writing Clan](https://twitter.com/Nontech_it?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor). Join the slack group [here](https://join.slack.com/t/nontechintech/shared_invite/zt-1elj2fo4m-mi0HWRhkC5R8jjkxw73ikg)
 
+### Share knowledge and speaking at Technical Writing communities and conferences
+
+- Interested in speak at Write the Docs Kenya? fill this [form](https://docs.google.com/spreadsheets/d/1Hzygi9izMrQyL_EYWV5puf2hCK65cClsd3pacrFq61A/edit#gid=0) or contact wtdkenya@gmail.com
+- Wanna speak at [Let's Talk Technical Writing](https://twitter.com/writefortech)? send a dm.
+- Keep at eye on the [Write the Docs Conferences site](https://www.writethedocs.org/conf/) to deliver a talk
+
 
 ## Need to contact someone?
 
