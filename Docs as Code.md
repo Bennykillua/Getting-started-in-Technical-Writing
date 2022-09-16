@@ -41,4 +41,6 @@ It comprises of and is not limited to
 - [Learning API docs by stealth by Jody Winter](https://jodywinter.com/2021/05/08/learning-api-docs-by-stealth/)
 - [Open source API Documnetations tools and why they matter by Luke Russell](https://blog.stoplight.io/open-source-api-documentation-tools-and-why-they-matter)
 - [Recording of Docs-as-code tools and workflows presentation by Tom Johnson](https://idratherbewriting.com/2018/03/09/docs-as-code-tools-and-workflows-denver-presentation/#slides)
-- 
+- [9 Great API and Developer Documentation Examples by Adam DuVander](https://everydeveloper.com/developer-documentation-examples/)
+
+
