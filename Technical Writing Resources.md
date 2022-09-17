@@ -24,7 +24,6 @@ You can however find courses [here](https://github.com/Bennykillua/Getting-start
 # Blogs Post 
 
 - [The Evolution of Technical Writing by Tom Johnson](https://idratherbewriting.com/2014/11/07/the-evolution-of-technical-writing/)
-- [Outline example by Benny Ifeanyi Iheagwara](https://docs.google.com/document/d/17P89X7Cu4-KUCnbLg5KfQmiV2e-yTbf1xQRx54pZ65s/edit?usp=sharing)
 - [Starting a Career as a Technical Writer by Leslie Hawkins](https://blog.helpdocs.io/starting-a-career-as-a-technical-writer/)
 - [Some advice if you're just starting out your technical writing career  by Tom Johnson ](https://idratherbewriting.com/blog/career-advice-just-starting-out.html)
 - [Everything You Need To Know About Technical Writing by Linda Ikechukwu](https://www.everythingtechnicalwriting.com/the-technical-writing-process/)
@@ -36,6 +35,10 @@ You can however find courses [here](https://github.com/Bennykillua/Getting-start
 - [My Tech Writing Process by Amruta Ranade](https://amrutaranade.com/2018/03/07/my-writing-process/)
 - [What do Technical Writers do? (Also, what is Technical Writing?) by Amruta Ranade](https://www.youtube.com/watch?v=biocrCx5T_k)
 - [Is Technical Writing the Right Career for You?  by Amruta Ranade](https://www.notion.so/Is-Technical-Writing-the-Right-Career-for-You-3085604c58ad453086331cdabf1953c5)
+
+# Outlines
+
+- [Outline example by Benny Ifeanyi Iheagwara](https://docs.google.com/document/d/17P89X7Cu4-KUCnbLg5KfQmiV2e-yTbf1xQRx54pZ65s/edit?usp=sharing)
 
 # Style Guide
 
