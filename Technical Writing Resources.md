@@ -7,6 +7,8 @@ You can however find courses [here](https://github.com/Bennykillua/Getting-start
 
 # Technical Writing Blogs
 
+You should follow these blogs:
+
 - [I'd Rather Be Writing](https://idratherbewriting.com/) by Tom Johnson [Linkedin](https://www.linkedin.com/in/tomjoht/) [Twitter](https://twitter.com/tomjohnson)
 
 - [Kesi Parker](https://medium.com/@kesiparker) by Kesi Parker [Linkedin](https://www.linkedin.com/in/kesi-parker-a86b0a202/)
@@ -21,7 +23,12 @@ You can however find courses [here](https://github.com/Bennykillua/Getting-start
 
 - [Write the doc Kenya](https://drive.google.com/drive/folders/1Nnvz3Qj2bHu0bw4zbivsXAlDkD9cjDmt)
 
+# Outlines
+
+- [Outline example by Benny Ifeanyi Iheagwara](https://docs.google.com/document/d/17P89X7Cu4-KUCnbLg5KfQmiV2e-yTbf1xQRx54pZ65s/edit?usp=sharing)
+
 # Blogs Post 
+Wanna learn about technical writing? read these articles
 
 - [The Evolution of Technical Writing by Tom Johnson](https://idratherbewriting.com/2014/11/07/the-evolution-of-technical-writing/)
 - [Starting a Career as a Technical Writer by Leslie Hawkins](https://blog.helpdocs.io/starting-a-career-as-a-technical-writer/)
@@ -36,9 +43,6 @@ You can however find courses [here](https://github.com/Bennykillua/Getting-start
 - [What do Technical Writers do? (Also, what is Technical Writing?) by Amruta Ranade](https://www.youtube.com/watch?v=biocrCx5T_k)
 - [Is Technical Writing the Right Career for You?  by Amruta Ranade](https://www.notion.so/Is-Technical-Writing-the-Right-Career-for-You-3085604c58ad453086331cdabf1953c5)
 
-# Outlines
-
-- [Outline example by Benny Ifeanyi Iheagwara](https://docs.google.com/document/d/17P89X7Cu4-KUCnbLg5KfQmiV2e-yTbf1xQRx54pZ65s/edit?usp=sharing)
 
 # Style Guide
 
