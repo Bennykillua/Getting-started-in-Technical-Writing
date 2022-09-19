@@ -42,6 +42,8 @@ Learn how to make a [contribution](https://github.com/Bennykillua/Getting-starte
 
 - [Productivity, writer's block, and everything in between](https://github.com/Bennykillua/Getting-started-in-Technical-Writing/blob/main/Productivity%20and%20everythin%20in%20between.md)
 
+- [Speaking at Technical Writing communities and conferences](https://github.com/Bennykillua/Getting-started-in-Technical-Writing/blob/main/Learning%20Resources/Speak.md)
+
 ### Technical writing bootcamp
 
 - Getting started slides from [Empower Her Community in collaboration with Non Tech in Tech  bootcamp July/August 2022 ](https://github.com/Bennykillua/Getting-started-in-Technical-Writing/blob/main/Empower%20Her%20X%20Non%20Tech%20in%20Tech.md).
@@ -75,6 +77,8 @@ Learn how to make a [contribution](https://github.com/Bennykillua/Getting-starte
 - [Non Tech in Tech: Technical Writing Clan](https://twitter.com/Nontech_it?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor). Join the slack group [here](https://join.slack.com/t/nontechintech/shared_invite/zt-1elj2fo4m-mi0HWRhkC5R8jjkxw73ikg)
 
 ### Share knowledge and speaking at Technical Writing communities and conferences
+
+To learn more about speaking, check out the [conference speaking page](https://github.com/Bennykillua/Getting-started-in-Technical-Writing/blob/main/Learning%20Resources/Speak.md)
 
 - Interested in speak at Write the Docs Kenya? fill this [form](https://docs.google.com/spreadsheets/d/1Hzygi9izMrQyL_EYWV5puf2hCK65cClsd3pacrFq61A/edit#gid=0) or contact wtdkenya@gmail.com
 - Wanna speak at [Let's Talk Technical Writing](https://twitter.com/writefortech)? send a dm.
