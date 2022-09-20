@@ -15,6 +15,7 @@ For paid opportunities, please check out the [getting paid session](https://gith
 - [Analytics Vidhya](https://medium.com/analytics-vidhya/why-write-for-analytics-vidhya-6c7ea8f0aeef)
 - [Opensource.com](https://opensource.com/writers)
 - [Write the docs Kenya hashnode](https://drive.google.com/drive/folders/1ejHyEvkJCfnvQ3T9sSdHqElI8JxBfczM)
+- [Contribute to Towards AI](https://contribute.towardsai.net/)
 
 ## Contributing to open source as a technical writer
 
