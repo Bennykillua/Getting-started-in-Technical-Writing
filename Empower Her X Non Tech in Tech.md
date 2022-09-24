@@ -36,6 +36,7 @@ Learn more [here](https://twitter.com/empowerhercom/status/1554066239047274498?s
 
 - [Open Source and the Real World by Benny, Blessing, and Timonwa](https://docs.google.com/presentation/d/19QLEWGtSAdsvFsHLWOdIlLx6hnI-M6ZcS8XcczEQhcE/edit?usp=sharing)
 
+
 ## Articles
 
 - [Fabusuyi deborah My experience at EHCXNTIT Technical Writing Bootcamp](https://medium.com/@fabusuyideborah03/my-experience-at-ehc-x-ntit-bootcamp-47fdae6baad3)
