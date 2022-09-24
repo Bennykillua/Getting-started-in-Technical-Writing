@@ -2,7 +2,7 @@
 
 # Slides
 
-A compilation of technical writers' sessions on technical writing is available for anyone who wishes to start writing technical content or learn more about it.
+A compilation of slides on technical, content writing is available for anyone who wishes to start writing technical content or learn more about it.
 
 
 - [Introduction to Technical Writing by Benny Ifeanyi and Blessing Anyebe](https://docs.google.com/presentation/d/1Xog9--49aFvkN8scz4THnEjSJoETqUMBlobxcy1TCj4/edit?usp=sharing)
