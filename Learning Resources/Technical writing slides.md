@@ -1,14 +1,15 @@
 
 
-## Slides
+# Slides
 
-- [Introduction to Technical Writing by Benny and Blessing](https://docs.google.com/presentation/d/1iQjS8ng7s8cNnbX_-pmcaVX_fiJrZTLdcDvdKSySq9s/edit?usp=sharing)
+A compilation of technical writers' sessions on technical writing is available for anyone who wishes to start writing technical content or learn more about it.
 
-- [Technical Writing 102 by Benny and Blessing](https://docs.google.com/presentation/d/15qSEnL9TNgbgrNFrSIeE987ZwcRMG1auNwX5NyRLcFU/edit?usp=sharing)
 
-- [Tools used in Technical Writing by Benny, Blessing, and Timonwa](https://docs.google.com/presentation/d/1mtu9CryVeydr9y_YmL9PUAM5Sv_ZPO6pwDlPAiqsk7Q/edit?usp=sharing)
+- [Introduction to Technical Writing by Benny Ifeanyi and Blessing Anyebe](https://docs.google.com/presentation/d/1Xog9--49aFvkN8scz4THnEjSJoETqUMBlobxcy1TCj4/edit?usp=sharing)
 
-- [The Writing Process by Blessing and Timonwa](https://docs.google.com/presentation/d/1p4ftBJtoDG02H4yRaxEBNWnuGllChiqm64qmpeIHYiA/edit?usp=sharing)
+- [Tools used in Technical Writing by Ifeanyi Benny, Timonwa Pelumi, and Blessing Anyebe](https://docs.google.com/presentation/d/1KNhdttM09kTQYFwWDHnHwdvWFIAs6QhuXhNVLrj89Kg/edit?usp=sharing)
+
+- [The Writing Process by Ifeanyi Benny, Timonwa Pelumi, and Blessing Anyebe](https://docs.google.com/presentation/d/1LY2pBYVKwTmDmrfCCPgTGxXAbfSEcrlo-3Mr0Y1r5g0/edit?usp=sharing)
 
 - [Search Engine Optimization In Technical Writing by Blessing](https://docs.google.com/presentation/d/1xLdw45nrxWwARveF7e2cNq7HWQKX_2fYNNU23Lr7LF4/edit?usp=sharing)
 
