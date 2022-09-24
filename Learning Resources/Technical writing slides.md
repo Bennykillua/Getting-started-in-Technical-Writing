@@ -11,6 +11,6 @@ A compilation of technical writers' sessions on technical writing is available f
 
 - [The Writing Process by Ifeanyi Benny, Timonwa Pelumi, and Blessing Anyebe](https://docs.google.com/presentation/d/1LY2pBYVKwTmDmrfCCPgTGxXAbfSEcrlo-3Mr0Y1r5g0/edit?usp=sharing)
 
-- [Search Engine Optimization In Technical Writing by Blessing](https://docs.google.com/presentation/d/1xLdw45nrxWwARveF7e2cNq7HWQKX_2fYNNU23Lr7LF4/edit?usp=sharing)
+- [Search Engine Optimization In Technical Writing by Blessing Anyebe](https://docs.google.com/presentation/d/1xLdw45nrxWwARveF7e2cNq7HWQKX_2fYNNU23Lr7LF4/edit?usp=sharing)
 
-- [Open Source and the Real World by Benny, Blessing, and Timonwa](https://docs.google.com/presentation/d/19QLEWGtSAdsvFsHLWOdIlLx6hnI-M6ZcS8XcczEQhcE/edit?usp=sharing)
+- [Open Source and the Real World by Ifeanyi Benny, Timonwa Pelumi, and Blessing Anyebe](https://docs.google.com/presentation/d/19QLEWGtSAdsvFsHLWOdIlLx6hnI-M6ZcS8XcczEQhcE/edit?usp=sharing)
