@@ -80,7 +80,7 @@ Learn how to make a [contribution](https://github.com/Bennykillua/Getting-starte
 
 ### Share knowledge and speaking at Technical Writing communities and conferences
 
-To learn more about speaking, check out the [conference speaking page](https://github.com/Bennykillua/Getting-started-in-Technical-Writing/blob/main/Learning%20Resources/Speak.md)
+To learn more about speaking, check out the [talk, conference, and speaking page](https://github.com/Bennykillua/Getting-started-in-Technical-Writing/blob/main/Learning%20Resources/Speak.md)
 
 - Interested in speak at Write the Docs Kenya? fill this [form](https://docs.google.com/spreadsheets/d/1Hzygi9izMrQyL_EYWV5puf2hCK65cClsd3pacrFq61A/edit#gid=0) or contact wtdkenya@gmail.com
 - Wanna speak at [Let's Talk Technical Writing](https://twitter.com/writefortech)? send a dm.
