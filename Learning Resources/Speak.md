@@ -1,5 +1,5 @@
 
-# Conference Speaking
+# Talks, conference, and speaking
 
 - [On Conference Speaking by Hynek Schlawack](https://hynek.me/articles/speaking/)
 - [Designing Presentations by Idan Gazit](https://gazit.me/writing/designing-presentations/)
