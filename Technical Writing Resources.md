@@ -30,7 +30,7 @@ You should follow these blogs:
 - [Outline example by Benny Ifeanyi Iheagwara](https://docs.google.com/document/d/17P89X7Cu4-KUCnbLg5KfQmiV2e-yTbf1xQRx54pZ65s/edit?usp=sharing)
 
 # Blogs Post 
-Wanna learn about technical writing? read these articles
+Wanna learn about technical writing? read the articles below or check out the community [slide](https://github.com/Bennykillua/Getting-started-in-Technical-Writing/blob/main/Learning%20Resources/Technical%20writing%20slides.md)
 
 - [The Evolution of Technical Writing by Tom Johnson](https://idratherbewriting.com/2014/11/07/the-evolution-of-technical-writing/)
 - [Starting a Career as a Technical Writer by Leslie Hawkins](https://blog.helpdocs.io/starting-a-career-as-a-technical-writer/)
