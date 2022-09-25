@@ -17,6 +17,7 @@ For paid opportunities, please check out the [getting paid session](https://gith
 - [Write the docs Kenya hashnode](https://drive.google.com/drive/folders/1ejHyEvkJCfnvQ3T9sSdHqElI8JxBfczM)
 - [Contribute to Towards AI](https://contribute.towardsai.net/)
 - [99design](https://99designs.com/blog/write-for-us/)
+- [Serverless360.com Azure community initiative.](https://www.serverlessnotes.com/docs/interested-to-contribute)
 
 ## Contributing to open source as a technical writer
 
