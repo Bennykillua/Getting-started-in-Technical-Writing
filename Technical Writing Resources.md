@@ -11,6 +11,8 @@ You should follow these blogs:
 
 - [I'd Rather Be Writing](https://idratherbewriting.com/) by Tom Johnson [Linkedin](https://www.linkedin.com/in/tomjoht/) [Twitter](https://twitter.com/tomjohnson)
 
+- [Write the Docs community: Documentation Guide](https://www.writethedocs.org/guide/)
+
 - [Kesi Parker](https://medium.com/@kesiparker) by Kesi Parker [Linkedin](https://www.linkedin.com/in/kesi-parker-a86b0a202/)
 
 - [DRAFT.DEV Blog](https://draft.dev/learn/) by Karl Hughes [Linkedin](https://www.linkedin.com/in/karllhughes/) [Twitter](https://twitter.com/KarlLHughes?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
