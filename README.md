@@ -23,7 +23,7 @@ View our list of contributors [here](https://github.com/Bennykillua/Getting-star
 
 Before making any contributions, please take a look at our [Code of Conduct and the Contributing Guidelines](https://github.com/Bennykillua/Getting-started-in-Technical-Writing/blob/main/CONTRIBUTING.md). 
 
-Dont know how to make a contribution? Learn how to make one [here](https://github.com/Bennykillua/Getting-started-in-Technical-Writing/blob/main/Contribute%20by%20Forking.md) to this repo.
+Dont know how to make a contribution? Learn how to make one [here](https://github.com/Bennykillua/Getting-started-in-Technical-Writing/blob/main/Contribute%20by%20Forking.md).
 
 # Learning resource
 
