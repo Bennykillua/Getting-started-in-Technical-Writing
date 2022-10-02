@@ -9,8 +9,9 @@ If you like our project then we would really appreciate a Star ⭐
 # What is Technical Writing ?
 
 ## Technical Writing FAQs
+<img src=https://octodex.github.com/images/spidertocat.png alt=celebrate width=300 align=right>
 
-## Contributors
+# Contributing
 
 This project exists thanks to all the people who contribute! ❤️ 💙
 
@@ -24,9 +25,7 @@ Before making any contributions, please take a look at our [Code of Conduct and 
 
 Dont know how to make a contribution? Learn how to make one [here](https://github.com/Bennykillua/Getting-started-in-Technical-Writing/blob/main/Contribute%20by%20Forking.md) to this repo.
 
-## Table of Content
-
-### Learning resource
+# Learning resource
 
 - [Technical Writing Resources](https://github.com/Bennykillua/Getting-started-in-Technical-Writing/blob/main/Technical%20Writing%20Resources.md)
 
