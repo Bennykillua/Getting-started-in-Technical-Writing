@@ -9,7 +9,6 @@ If you like our project then we would really appreciate a Star ⭐
 # What is Technical Writing ?
 
 ## Technical Writing FAQs
-<img src=https://octodex.github.com/images/spidertocat.png alt=celebrate width=300 align=right>
 
 # Contributing
 
@@ -72,6 +71,9 @@ Dont know how to make a contribution? Learn how to make one [here](https://githu
 ### Technical Writing Communities
 
 *“Alone, we can do so little; together, we can do so much” – Helen Keller*
+
+
+<img src=https://octodex.github.com/images/spidertocat.png alt=celebrate width=300 align=right>
 
 - [Let's Talk Technical Writing](https://twitter.com/writefortech): Bi-weekly Twitter spaces about Technical writing
 
