@@ -3,6 +3,8 @@
 
 This page contains a list of frequently asked questions concerning technical writing, along with the corresponding responses. Please feel free to add more questions and responses.
 
+To add a questions, please open an [issue](https://github.com/Bennykillua/Getting-started-in-Technical-Writing/issues)
+
 To learn more about technical writing, explore the [resources page](https://github.com/Bennykillua/Getting-started-in-Technical-Writing/blob/main/Technical%20Writing%20Resources.md) and the [course page](https://github.com/Bennykillua/Getting-started-in-Technical-Writing/blob/main/Technical%20Writing%20Courses.md)
 
 <img src=https://octodex.github.com/images/manufacturetocat.png alt=celebrate width=300 align=right>
@@ -10,14 +12,14 @@ To learn more about technical writing, explore the [resources page](https://gith
 ## Questions and Answer
 
 <details close>
-<summary>Write a question here </summary>
+<summary>Can I really get in technical writing by being self-taught?</summary>
 
 <pre>$ Contribute your answer here </pre>
 
 </details>
 
 <details close>
-<summary>Write a question here </summary>
+<summary>Do I need to learn how to code? </summary>
 
 <pre>$ Contribute your answer here </pre>
 
