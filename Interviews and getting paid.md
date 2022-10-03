@@ -8,6 +8,10 @@ Check here out for [jobs and gigs](https://github.com/Bennykillua/Getting-starte
 - [Video: 6 Inspiring Technical Writing Portfolios (+ my new portfolio) by Amruta Ranade](https://www.youtube.com/watch?v=crePAmhdpww)
 - [My Technical Writing Portfolio (ft. GitHub and open source projects) by Amruta Ranade](https://www.youtube.com/watch?v=68ddwfpXHrE)
 
+## Job-Related Questions about Technical Writing
+
+Technical writing careers are often a mystery to those on the outside. What do technical writing jobs involve? What is the industry like? What is the career path of a technical writer, and what challenges do technical writers face? This [article by Tom Johnson](https://idratherbewriting.com/2008/02/16/technical-writing-careers-answering-13-questions-about-technical-writing-jobs/) explains it all.
+
 ## Resources
 
 - [ Finding Opportunities as an Entry Level Technical Writer by Karl Hughes](https://draft.dev/learn/finding-opportunities-as-an-entry-level-technical-writer)
