@@ -20,6 +20,7 @@ You can make simple contribution like
 - Fixing grammar mistakes or typos
 - Editing or suggesting changes to the listed content
 - As well as contributing to the content and resources of the repo.
+- You can also ask a question or give an answer to an already asked question on the [discussion page](https://github.com/Bennykillua/Getting-started-in-Technical-Writing/discussions)
 
 This [video](https://www.youtube.com/watch?v=dc6ZQEa3i1c) explains how you can make a contribution right on GitHub.
 
