@@ -8,11 +8,11 @@ If you like our project then we would really appreciate a Star ⭐
 
 # What is Technical Writing ?
 
-One of my favourite explanations of technical writing comes from Tom Johnson, who defines it as the interaction of simplicity and complexity.
+One of my favourite explanations of technical writing comes from [Tom Johnson](https://www.linkedin.com/in/tomjoht/), who defines it as the interaction of simplicity and complexity.
 
 I'd define technical writing as a form of writing where the author discusses a specific topic that calls for direction, instruction, or explanation.
 
-To earn more about technical writing, explore the [resources](https://github.com/Bennykillua/Getting-started-in-Technical-Writing/blob/main/Technical%20Writing%20Resources.md) 
+To learn more about technical writing, explore the [resources](https://github.com/Bennykillua/Getting-started-in-Technical-Writing/blob/main/Technical%20Writing%20Resources.md) 
 and [FAQs page](https://github.com/Bennykillua/Getting-started-in-Technical-Writing/blob/main/Learning%20Resources/Technical%20Writing%20FAQs.md).
 
 # Contributing
@@ -53,6 +53,8 @@ Dont know how to make a contribution? Learn how to make one [here](https://githu
 
 ### Technical writing bootcamp
 
+<img src=https://octodex.github.com/images/spidertocat.png alt=celebrate width=300 align=right>
+
 - Getting started slides from [Empower Her Community in collaboration with Non Tech in Tech  bootcamp July/August 2022 ](https://github.com/Bennykillua/Getting-started-in-Technical-Writing/blob/main/Empower%20Her%20X%20Non%20Tech%20in%20Tech.md).
 
 - [Technical writing slides](https://github.com/Bennykillua/Getting-started-in-Technical-Writing/blob/main/Learning%20Resources/Technical%20writing%20slides.md) 
@@ -64,8 +66,6 @@ Dont know how to make a contribution? Learn how to make one [here](https://githu
 - [Who Pays Technical Writers?](https://whopaystechnicalwriters.com/?)
 
 - [ContentWritingJobs.com by Tom](https://contentwritingjobs.com/)
-
-<img src=https://octodex.github.com/images/spidertocat.png alt=celebrate width=300 align=right>
 
 - [Write the Docs Job Board](https://jobs.writethedocs.org/)
 
@@ -88,6 +88,8 @@ Dont know how to make a contribution? Learn how to make one [here](https://githu
 
 - [Non Tech in Tech: Technical Writing Clan](https://twitter.com/Nontech_it?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor). Join the slack group [here](https://join.slack.com/t/nontechintech/shared_invite/zt-1elj2fo4m-mi0HWRhkC5R8jjkxw73ikg)
 
+<img src=https://octodex.github.com/images/Fintechtocat.png alt=celebrate width=300 align=right>
+
 ### Share knowledge and speaking at Technical Writing communities and conferences
 
 To learn more about speaking, check out the [talk, conference, and speaking page](https://github.com/Bennykillua/Getting-started-in-Technical-Writing/blob/main/Learning%20Resources/Speak.md)
@@ -100,5 +102,7 @@ To learn more about speaking, check out the [talk, conference, and speaking page
 ## Need to contact someone?
 
 Please reach out to me on Twitter: [Benny Ifeanyi](https://twitter.com/Bennykillua) or [Linkedin](https://www.linkedin.com/in/ifeanyi-iheagwara/)
+
+The GitHub Octodex images used in this repo was gotten from the [offical website](https://octodex.github.com/)
 
 If you like our project then we would really appreciate a Star ⭐
