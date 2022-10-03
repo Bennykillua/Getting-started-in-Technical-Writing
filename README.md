@@ -8,7 +8,12 @@ If you like our project then we would really appreciate a Star ⭐
 
 # What is Technical Writing ?
 
-## Technical Writing FAQs
+One of my favourite explanations of technical writing comes from Tom Johnson, who defines it as the interaction of simplicity and complexity.
+
+I'd define technical writing as a form of writing where the author discusses a specific topic that calls for direction, instruction, or explanation.
+
+To earn more about technical writing, explore the [resources](https://github.com/Bennykillua/Getting-started-in-Technical-Writing/blob/main/Technical%20Writing%20Resources.md) 
+and [FAQs page](https://github.com/Bennykillua/Getting-started-in-Technical-Writing/blob/main/Learning%20Resources/Technical%20Writing%20FAQs.md).
 
 # Contributing
 
@@ -60,6 +65,8 @@ Dont know how to make a contribution? Learn how to make one [here](https://githu
 
 - [ContentWritingJobs.com by Tom](https://contentwritingjobs.com/)
 
+<img src=https://octodex.github.com/images/spidertocat.png alt=celebrate width=300 align=right>
+
 - [Write the Docs Job Board](https://jobs.writethedocs.org/)
 
 - [Remotive](https://remotive.com/)
@@ -71,9 +78,6 @@ Dont know how to make a contribution? Learn how to make one [here](https://githu
 ### Technical Writing Communities
 
 *“Alone, we can do so little; together, we can do so much” – Helen Keller*
-
-
-<img src=https://octodex.github.com/images/spidertocat.png alt=celebrate width=300 align=right>
 
 - [Let's Talk Technical Writing](https://twitter.com/writefortech): Bi-weekly Twitter spaces about Technical writing
 
