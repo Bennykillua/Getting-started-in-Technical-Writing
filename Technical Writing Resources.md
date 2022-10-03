@@ -21,6 +21,8 @@ You should follow these blogs:
 
 - [APIS YOU WON'T HATE](https://apisyouwonthate.com/)
 
+# Technical Writing Books
+
 # Community resources
 
 - [Write the doc Kenya](https://drive.google.com/drive/folders/1Nnvz3Qj2bHu0bw4zbivsXAlDkD9cjDmt)
