@@ -81,6 +81,8 @@ Dont know how to make a contribution? Learn how to make one [here](https://githu
 
 - [Let's Talk Technical Writing](https://twitter.com/writefortech): Bi-weekly Twitter spaces about Technical writing
 
+- Devwrites Africa. To join, send a dm to collins[dm](https://twitter.com/codev206)
+
 - [Write the Docs](https://www.writethedocs.org/): The largest and a global community of people who care about documentation. Join the [slack](https://www.writethedocs.org/slack/)
   - [Write the Docs Nigeria](https://www.meetup.com/write-the-docs-nigeria/) [Twitter](https://twitter.com/NgDocs)
   - [Write the Docs Kenya](https://www.meetup.com/wtd-kenya/) [Twitter](https://mobile.twitter.com/wtd_kenya). [event page](https://docs.google.com/spreadsheets/d/1Hzygi9izMrQyL_EYWV5puf2hCK65cClsd3pacrFq61A/edit#gid=0)
