@@ -5,8 +5,86 @@ This page contains a list of frequently asked questions concerning technical wri
 
 To learn more about technical writing, explore the [resources page](https://github.com/Bennykillua/Getting-started-in-Technical-Writing/blob/main/Technical%20Writing%20Resources.md) and the [course page](https://github.com/Bennykillua/Getting-started-in-Technical-Writing/blob/main/Technical%20Writing%20Courses.md)
 
-
 <img src=https://octodex.github.com/images/manufacturetocat.png alt=celebrate width=300 align=right>
+
+## Questions and Answer
+
+<details close>
+<summary>Write a question here </summary>
+
+<pre>$ Contribute your answer here </pre>
+
+</details>
+
+<details close>
+<summary>Write a question here </summary>
+
+<pre>$ Contribute your answer here </pre>
+
+</details>
+
+<details close>
+<summary>Write a question here </summary>
+
+<pre>$ Contribute your answer here </pre>
+
+</details>
+
+<details close>
+<summary>Write a question here </summary>
+
+<pre>$ Contribute your answer here </pre>
+
+</details>
+
+<details close>
+<summary>Write a question here </summary>
+
+<pre>$ Contribute your answer here </pre>
+
+</details>
+
+<details close>
+<summary>Write a question here </summary>
+
+<pre>$ Contribute your answer here </pre>
+
+</details>
+
+<details close>
+<summary>Write a question here </summary>
+
+<pre>$ Contribute your answer here </pre>
+
+</details>
+
+<details close>
+<summary>Write a question here </summary>
+
+<pre>$ Contribute your answer here </pre>
+
+</details>
+
+<details close>
+<summary>Write a question here </summary>
+
+<pre>$ Contribute your answer here </pre>
+
+</details>
+
+<details close>
+<summary>Write a question here </summary>
+
+<pre>$ Contribute your answer here </pre>
+
+</details>
+
+<details close>
+<summary>Write a question here </summary>
+
+<pre>$ Contribute your answer here </pre>
+
+</details>
 
 
 ## Job-Related Questions about Technical Writing
