@@ -95,6 +95,9 @@ This repository is maintained by volunteers in their free time, please be kind. 
 
 In order to discuss changes, you are welcome to [open an issue](https://github.com/Bennykillua/Getting-started-in-Technical-Writing/issues/new) about what you would like to contribute or see in this repo. 
 
+## want to ask a question?
+
+Check out the [dicussion page](https://github.com/Bennykillua/Getting-started-in-Technical-Writing/discussions)
 
 ## Need to contact someone?
 
