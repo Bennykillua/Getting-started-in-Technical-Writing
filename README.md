@@ -13,7 +13,7 @@ One of my favourite explanations of technical writing comes from [Tom Johnson](h
 I'd define technical writing as a form of writing where the author discusses a specific topic that calls for direction, instruction, or explanation.
 
 To learn more about technical writing, explore the [resources](https://github.com/Bennykillua/Getting-started-in-Technical-Writing/blob/main/Technical%20Writing%20Resources.md) 
-and [FAQs page](https://github.com/Bennykillua/Getting-started-in-Technical-Writing/blob/main/Learning%20Resources/Technical%20Writing%20FAQs.md).
+and [discussion page](https://github.com/Bennykillua/Getting-started-in-Technical-Writing/discussions)
 
 # Contributing
 
