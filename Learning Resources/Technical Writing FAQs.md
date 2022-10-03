@@ -89,7 +89,7 @@ To learn more about technical writing, explore the [resources page](https://gith
 
 ## Job-Related Questions about Technical Writing
 
-Technical writing careers are often a mystery to those on the outside. What do technical writing jobs involve? What is the industry like? What is the career path of a technical writer, and what challenges do technical writers face? This [article](https://idratherbewriting.com/2008/02/16/technical-writing-careers-answering-13-questions-about-technical-writing-jobs/) explains it all.
+Technical writing careers are often a mystery to those on the outside. What do technical writing jobs involve? What is the industry like? What is the career path of a technical writer, and what challenges do technical writers face? This [article by Tom Johnson](https://idratherbewriting.com/2008/02/16/technical-writing-careers-answering-13-questions-about-technical-writing-jobs/) explains it all.
 
 
 
