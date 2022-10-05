@@ -75,6 +75,8 @@ Wanna make a contribution but don't know how? Check out the [how to contribute p
 
 - [Draft.dev](https://github.com/draftdev/jobs)
 
+- [Draft.dev DevRel career](https://devrelcareers.com/)
+
 ### Technical Writing Communities
 
 *“Alone, we can do so little; together, we can do so much” – Helen Keller*
