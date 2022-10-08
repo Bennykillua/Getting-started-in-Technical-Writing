@@ -19,8 +19,6 @@ and [discussion page](https://github.com/Bennykillua/Getting-started-in-Technica
 
 This project exists thanks to all the people who contribute! ❤️ 💙
 
-<img src=https://octodex.github.com/images/jetpacktocat.png alt=celebrate width=300 align=right>
-
 View our list of contributors [here](https://github.com/Bennykillua/Getting-started-in-Technical-Writing/blob/main/Contributor.md)
 
 ## How to contribute?
@@ -52,8 +50,6 @@ Wanna make a contribution but don't know how? Check out the [how to contribute p
 - [Speaking at Technical Writing communities and conferences](https://github.com/Bennykillua/Getting-started-in-Technical-Writing/blob/main/Learning%20Resources/Speak.md)
 
 ### Technical writing bootcamp
-
-<img src=https://octodex.github.com/images/spidertocat.png alt=celebrate width=300 align=right>
 
 - Getting started slides from [Empower Her Community in collaboration with Non Tech in Tech  bootcamp July/August 2022 ](https://github.com/Bennykillua/Getting-started-in-Technical-Writing/blob/main/Empower%20Her%20X%20Non%20Tech%20in%20Tech.md).
 
@@ -92,7 +88,6 @@ Wanna make a contribution but don't know how? Check out the [how to contribute p
 
 - [Non Tech in Tech: Technical Writing Clan](https://twitter.com/Nontech_it?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor). Join the slack group [here](https://join.slack.com/t/nontechintech/shared_invite/zt-1elj2fo4m-mi0HWRhkC5R8jjkxw73ikg)
 
-<img src=https://octodex.github.com/images/Fintechtocat.png alt=celebrate width=300 align=right>
 
 ### Share knowledge and speaking at Technical Writing communities and conferences
 
