@@ -18,6 +18,7 @@ For paid opportunities, please check out the [getting paid session](https://gith
 - [Contribute to Towards AI](https://contribute.towardsai.net/)
 - [99design](https://99designs.com/blog/write-for-us/)
 - [Serverless360.com Azure community initiative.](https://www.serverlessnotes.com/docs/interested-to-contribute)
+- [Section EngEd Community Contribution](https://github.com/Bennykillua/engineering-education).. [Form](https://docs.google.com/forms/d/e/1FAIpQLSfTbj3kqvEJEb5RLjqJurfbHa8ckzQx0CjRzaizblue9ZOK5A/viewform?usp=sf_link)
 
 ## Contributing to open source as a technical writer
 
