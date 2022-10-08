@@ -16,3 +16,4 @@
 - [An Original Framework to Guide Discovery For Your Next Technical Writing Project by Todd Lewandowski](https://toddlewandowski.medium.com/an-original-framework-to-guide-discovery-for-your-next-technical-writing-project-89d18b8fc79a)
 - [What it’s like working with an editor by Giles Turnbull](https://www.usethehumanvoice.com/edit/?utm_campaign=Everything%20Technical%20Writing%20Newsletter&utm_medium=email&utm_source=Revue%20newsletter)
 - [Why You Should NOT Move in Silence: Why? Are you a thief? by Linda Ikechukwu](https://middleclassnigeriangirl.substack.com/p/why-you-should-not-move-in-silence?utm_medium=web)
+- [The Big Blog Promotion Checklist by Karl Hughes](https://draft.dev/learn/promotion)
