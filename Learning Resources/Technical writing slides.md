@@ -16,3 +16,5 @@ A compilation of slides on technical, content writing is available for anyone wh
 - [Open Source and the Real World by Ifeanyi Benny, Timonwa Akintokun, and Blessing Anyebe](https://docs.google.com/presentation/d/19QLEWGtSAdsvFsHLWOdIlLx6hnI-M6ZcS8XcczEQhcE/edit?usp=sharing)
 
 - [Monetizing your Technical Writing Skills by Timonwa Akintokun](https://docs.google.com/file/d/1iiEETIIgMfuXk9tvNjYb5fYJiVc9Wulh/edit?usp=docslist_api&filetype=mspresentation)
+
+- [Write the Docs Prague 2022: Creating documentation for the African audience by Mustapha Rufai and Benny Ifeanyi Iheagwara](https://docs.google.com/presentation/d/1WE-8PFfDlEYMywA_Yl5ia54gleVuVXSR5WaUgQCVOKw/edit?usp=sharing) [video](https://www.youtube.com/watch?v=w2L3QoTnYbE)
