@@ -73,6 +73,10 @@ Wanna make a contribution but don't know how? Check out the [how to contribute p
 
 - [Draft.dev DevRel career](https://devrelcareers.com/)
 
+- [WorkingInContent.com](https://workingincontent.com/)
+
+- [UX Content Collective](https://jobs.uxcontent.com/) 
+
 ### Technical Writing Communities
 
 *“Alone, we can do so little; together, we can do so much” – Helen Keller*
@@ -87,6 +91,12 @@ Wanna make a contribution but don't know how? Check out the [how to contribute p
   - Find Write the Docs Meetups in your local community [here](https://www.writethedocs.org/meetups/index.html)
 
 - [Non Tech in Tech: Technical Writing Clan](https://twitter.com/Nontech_it?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor). Join the slack group [here](https://join.slack.com/t/nontechintech/shared_invite/zt-1elj2fo4m-mi0HWRhkC5R8jjkxw73ikg)
+
+- [UX writing: Content + UX](https://contentandux.org/)
+
+- [THE UX WRITING LIBRARY](https://www.uxwritinglibrary.com/communities)
+
+- [Content Strategy](https://community.content-strategy.com/)
 
 
 ### Share knowledge and speaking at Technical Writing communities and conferences
