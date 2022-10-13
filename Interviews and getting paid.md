@@ -14,6 +14,8 @@ Technical writing careers are often a mystery to those on the outside. What do t
 
 ## Resources
 
+- [Where and How to Find UX Writing, Content Design, and Content Strategy Jobs By Scott Kubie](https://kubie.co/blog/where-to-find-ux-writing-content-design-jobs/)
+
 - [ Finding Opportunities as an Entry Level Technical Writer by Karl Hughes](https://draft.dev/learn/finding-opportunities-as-an-entry-level-technical-writer)
 
 - [Technical Writer Interview: What To Expect From Personal Experience by Linda Ikechukwu](https://www.everythingtechnicalwriting.com/technical-writer-interview/)
