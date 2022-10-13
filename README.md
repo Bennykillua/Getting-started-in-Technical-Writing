@@ -4,7 +4,7 @@
 
 A compilation of resources for anyone who wants to get started or learn more about technical writing.
 
-If you like our project then we would really appreciate a Star ⭐
+We would greatly appreciate a Star if you like our project ⭐
 
 # What is Technical Writing ?
 
@@ -110,8 +110,8 @@ To learn more about speaking, check out the [talk, conference, and speaking page
 
 ## Need to contact someone?
 
-Please reach out to me (Benny Ifeanyi) on [Twitter](https://twitter.com/Bennykillua) or [Linkedin](https://www.linkedin.com/in/ifeanyi-iheagwara/)
+You can reach out to me (Benny Ifeanyi) on [Twitter](https://twitter.com/Bennykillua) or [Linkedin](https://www.linkedin.com/in/ifeanyi-iheagwara/)
 
 The GitHub Octodex images used in this repo was gotten from the [offical website](https://octodex.github.com/)
 
-If you like our project then we would really appreciate a Star ⭐
+We would greatly appreciate a Star if you like our project ⭐
