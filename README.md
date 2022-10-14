@@ -103,11 +103,6 @@ Wanna make a contribution but don't know how? Check out the [how to contribute p
 
 To learn more about speaking, check out the [talk, conference, and speaking page](https://github.com/Bennykillua/Getting-started-in-Technical-Writing/blob/main/Learning%20Resources/Speak.md)
 
-- Interested in speak at Write the Docs Kenya? fill this [form](https://docs.google.com/spreadsheets/d/1Hzygi9izMrQyL_EYWV5puf2hCK65cClsd3pacrFq61A/edit#gid=0) or contact wtdkenya@gmail.com
-- Wanna speak at [Let's Talk Technical Writing](https://twitter.com/writefortech)? send a dm.
-- Keep at eye on the [Write the Docs Conferences site](https://www.writethedocs.org/conf/) to deliver a talk
-
-
 ## Need to contact someone?
 
 You can reach out to me (Benny Ifeanyi) on [Twitter](https://twitter.com/Bennykillua) or [Linkedin](https://www.linkedin.com/in/ifeanyi-iheagwara/)
