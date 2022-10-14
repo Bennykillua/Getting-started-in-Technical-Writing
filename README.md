@@ -98,7 +98,6 @@ Wanna make a contribution but don't know how? Check out the [how to contribute p
 
 - [Content Strategy](https://community.content-strategy.com/)
 
-
 ### Share knowledge and speaking at Technical Writing communities and conferences
 
 To learn more about speaking, check out the [talk, conference, and speaking page](https://github.com/Bennykillua/Getting-started-in-Technical-Writing/blob/main/Learning%20Resources/Speak.md)
