@@ -7,7 +7,9 @@
 
 - Wanna speak at [Let's Talk Technical Writing](https://twitter.com/writefortech)? send a dm.
 
-- Wanna speak at [Let's Talk Technical Writing](https://twitter.com/NgDocs)? send a dm.
+- Wanna speak at [Write the Docs Nigeria](https://twitter.com/NgDocs)? send a dm.
+
+- Wanna speak at [Write the Docs Kenya](https://www.meetup.com/wtd-kenya/) [Twitter](https://mobile.twitter.com/wtd_kenya). Check out their [event page](https://docs.google.com/spreadsheets/d/1Hzygi9izMrQyL_EYWV5puf2hCK65cClsd3pacrFq61A/edit#gid=0) and send a dm.
 
 - Keep an eye on the [Write the Docs Conferences site](https://www.writethedocs.org/conf/) to deliver a talk at either Write the Docs Portland, Prague, or Australia.
 
