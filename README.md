@@ -73,6 +73,8 @@ Wanna make a contribution but don't know how? Check out the [how to contribute p
 
 - [Draft.dev DevRel career](https://devrelcareers.com/)
 
+- [Blockchain and Crypto Writing Jobs](https://cryptojobslist.com/writer)
+
 - [WorkingInContent.com](https://workingincontent.com/)
 
 - [UX Content Collective](https://jobs.uxcontent.com/) 
