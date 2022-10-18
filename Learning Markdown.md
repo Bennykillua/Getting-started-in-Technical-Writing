@@ -119,3 +119,4 @@ To list files and directories on the terminal, run `ls` command.
 - [Table Generator](https://www.tablesgenerator.com/markdown_tables)
 - [Markdown badges](https://github.com/Ileriayo/markdown-badges)
 - [The markdown guide](https://www.markdownguide.org/)
+- [Markdown emojis](https://gist.github.com/rxaviers/7360908)
