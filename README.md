@@ -12,46 +12,46 @@ One of my favourite explanations of technical writing comes from [Tom Johnson](h
 
 I'd define technical writing as a form of writing where the author discusses a specific topic that calls for direction, instruction, or explanation.
 
-To learn more about technical writing, explore the [resources](https://github.com/Bennykillua/Getting-started-in-Technical-Writing/blob/main/Technical%20Writing%20Resources.md) 
+To learn more about technical writing, explore the [resources](https://github.com/Bennykillua/Getting-started-in-Technical-Writing/blob/main/Learning%20Resources/Technical%20Writing%20Resources.md) 
 and [discussion page](https://github.com/Bennykillua/Getting-started-in-Technical-Writing/discussions)
 
 # Contributing
 
 This project exists thanks to all the people who contribute! ❤️ 💙
 
-View our list of contributors [here](https://github.com/Bennykillua/Getting-started-in-Technical-Writing/blob/main/Contributor.md)
+View our list of contributors [here](https://github.com/Bennykillua/Getting-started-in-Technical-Writing/blob/main/Learning%20Resources/Contributor.md)
 
 ## How to contribute?
 
-Before making any contributions, please take a look at our [Code of Conduct and the Contributing Guidelines](https://github.com/Bennykillua/Getting-started-in-Technical-Writing/blob/main/CONTRIBUTING.md). 
+Before making any contributions, please take a look at our [Code of Conduct and the Contributing Guidelines](https://github.com/Bennykillua/Getting-started-in-Technical-Writing/blob/main/Learning%20Resources/CONTRIBUTING.md). 
 
-Wanna make a contribution but don't know how? Check out the [how to contribute page](https://github.com/Bennykillua/Getting-started-in-Technical-Writing/blob/main/Contribute%20by%20Forking.md).
+Wanna make a contribution but don't know how? Check out the [how to contribute page](https://github.com/Bennykillua/Getting-started-in-Technical-Writing/blob/main/Learning%20Resources/Contribute%20by%20Forking.md).
 
 # Learning resource
 
-- [Technical Writing Resources](https://github.com/Bennykillua/Getting-started-in-Technical-Writing/blob/main/Technical%20Writing%20Resources.md)
+- [Technical Writing Resources](https://github.com/Bennykillua/Getting-started-in-Technical-Writing/blob/main/Learning%20Resources/Technical%20Writing%20Resources.md)
 
-- [Technical Writing and documentation Courses](https://github.com/Bennykillua/Getting-started-in-Technical-Writing/blob/main/Technical%20Writing%20Courses.md)
+- [Technical Writing and documentation Courses](https://github.com/Bennykillua/Getting-started-in-Technical-Writing/blob/main/Learning%20Resources/Technical%20Writing%20Courses.md)
 
-- [Docs as Code, documentation, APIs, and everything in between](https://github.com/Bennykillua/Getting-started-in-Technical-Writing/blob/main/Docs%20as%20Code.md)
+- [Docs as Code, documentation, APIs, and everything in between](https://github.com/Bennykillua/Getting-started-in-Technical-Writing/blob/main/Learning%20Resources/Docs%20as%20Code.md)
 
-- [Search Engine Optimization (SEO)](https://github.com/Bennykillua/Getting-started-in-Technical-Writing/blob/main/SEO.md)
+- [Search Engine Optimization (SEO)](https://github.com/Bennykillua/Getting-started-in-Technical-Writing/blob/main/Learning%20Resources/SEO.md)
 
-- [Learning markdown](https://github.com/Bennykillua/Getting-started-in-Technical-Writing/blob/main/Learning%20Markdown.md)
+- [Learning markdown](https://github.com/Bennykillua/Getting-started-in-Technical-Writing/blob/main/Learning%20Resources/Learning%20Markdown.md)
 
-- [Simple Git commands](https://github.com/Bennykillua/Getting-started-in-Technical-Writing/blob/main/Learning%20Git.MD)
+- [Simple Git commands](https://github.com/Bennykillua/Getting-started-in-Technical-Writing/blob/main/Learning%20Resources/Learning%20Git.MD)
 
-- [Contributing to publications and open source as a technical writer](https://github.com/Bennykillua/Getting-started-in-Technical-Writing/blob/main/Contributing%20as%20a%20technical%20writer.md)
+- [Contributing to publications and open source as a technical writer](https://github.com/Bennykillua/Getting-started-in-Technical-Writing/blob/main/Learning%20Resources/Contributing%20as%20a%20technical%20writer.md)
 
-- [Resume, portfolio, interviews, and everything in between](https://github.com/Bennykillua/Getting-started-in-Technical-Writing/blob/main/Interviews%20and%20getting%20paid.md)
+- [Resume, portfolio, interviews, and everything in between](https://github.com/Bennykillua/Getting-started-in-Technical-Writing/blob/main/Learning%20Resources/Interviews%20and%20getting%20paid.md)
 
-- [Productivity, writer's block, and everything in between](https://github.com/Bennykillua/Getting-started-in-Technical-Writing/blob/main/Productivity%20and%20everythin%20in%20between.md)
+- [Productivity, writer's block, and everything in between](https://github.com/Bennykillua/Getting-started-in-Technical-Writing/blob/main/Learning%20Resources/Productivity%20and%20everythin%20in%20between.md)
 
 - [Speaking at Technical Writing communities and conferences](https://github.com/Bennykillua/Getting-started-in-Technical-Writing/blob/main/Learning%20Resources/Speak.md)
 
 ### Technical writing bootcamp
 
-- Getting started slides from [Empower Her Community in collaboration with Non Tech in Tech  bootcamp July/August 2022 ](https://github.com/Bennykillua/Getting-started-in-Technical-Writing/blob/main/Empower%20Her%20X%20Non%20Tech%20in%20Tech.md).
+- Getting started slides from [Empower Her Community in collaboration with Non Tech in Tech  bootcamp July/August 2022 ](https://github.com/Bennykillua/Getting-started-in-Technical-Writing/blob/main/Learning%20Resources/Empower%20Her%20X%20Non%20Tech%20in%20Tech.md).
 
 - [Technical writing slides](https://github.com/Bennykillua/Getting-started-in-Technical-Writing/blob/main/Learning%20Resources/Technical%20writing%20slides.md) 
 
