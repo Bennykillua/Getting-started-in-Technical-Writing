@@ -49,6 +49,7 @@ Wanna learn about technical writing? read the articles below or check out the co
 
 
 # Style Guide
+A style guide is a piece of documentation which defines the style a technical writer uses while writing. It lays out a set of editorial rules that ensures consistency in your documents.
 
 ## Resources 
 
