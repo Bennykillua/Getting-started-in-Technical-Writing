@@ -21,6 +21,8 @@ It comprises of and is not limited to
 ## Resources
 
 -  [APIS YOU WON'T HATE](https://apisyouwonthate.com/)
+-  [Tips for writing SaaS documentation](https://thisisimportant.net/posts/tips-for-writing-saas-documentation/)
+- [This is important: Tech Writinh](https://thisisimportant.net/topics/tech-writing/)
 -  [Getting Started in API Documentation Writing by Robert Delwood](http://writeonce.org/starting_as_a_programmer_writer.php)
 -  [What is a Static Site Generator? And 3 ways to find the best one by Phil Hawksworth](https://www.netlify.com/blog/2020/04/14/what-is-a-static-site-generator-and-3-ways-to-find-the-best-one/)
 -  [The Best Content to Supplement Your API Documentation by Karl Hughes](https://apisyouwonthate.com/blog/supplementing-documentation)
