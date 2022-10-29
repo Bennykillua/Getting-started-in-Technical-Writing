@@ -42,8 +42,13 @@ Chech [here](https://benny.hashnode.dev/how-to-contribute-to-open-source-project
 
 ## Open Source Projects
 - [Updating Airbyte Documentation](https://docs.airbyte.com/contributing-to-airbyte/updating-documentation/) 
+- [Ansible](https://github.com/ansible/ansible/issues?q=is%3Aissue+is%3Aopen+label%3Adocs)
+- [docToolchain](https://github.com/docToolchain/docToolchain/issues) you can also start by creating [tutorials for docToolChain](https://github.com/docToolchain/tutorials)
+
+## Where can I find Open Source Projects?
 - [List of Open Source Projects with Documentation Opportunities by Amruta Ranade](https://amrutaranade.com/2018/03/21/list-of-open-source-projects-that-accept-docs-contributions/)
 - [Open-Source Projects for Technical Writers by Kesi Parker](https://medium.com/technical-writing-is-easy/open-source-projects-for-technical-writers-de53fb3dd4c9)
+- [How to contribute to Hacktoberfest by Ifeanyi Benny Iheagwara](https://opensource.com/article/22/10/how-to-contribute-hacktoberfest?sc_cid=7016000000127ECAAY)
 
 ## Open Source Internship
 
