@@ -12,7 +12,7 @@ A community of Non-techies in Africa. You can join the slack group [here](https:
 
 ## Tutors
 
-- Benny Ifeanyi Iheagwara - [Linkedin](https://www.linkedin.com/in/ifeanyi-iheagwara/) [Twitter](https://twitter.com/Bennykillua) [GitHub](https://github.com/Bennykillua)
+- Benny Ifeanyi Iheagwara - [Twitter](https://twitter.com/Bennykillua) [GitHub](https://github.com/Bennykillua)
 
 - Blessing Anyebe - [Linkedin](https://www.linkedin.com/in/anyebe-blessing-ene-kwennb/) [Twitter](https://twitter.com/KwennB)
 
