@@ -14,11 +14,11 @@ A community of Non-techies in Africa. You can join the slack group [here](https:
 
 - Benny Ifeanyi Iheagwara - [Twitter](https://twitter.com/Bennykillua) [GitHub](https://github.com/Bennykillua)
 
-- Blessing Anyebe - [Linkedin](https://www.linkedin.com/in/anyebe-blessing-ene-kwennb/) [Twitter](https://twitter.com/KwennB)
+- Blessing Anyebe - [Twitter](https://twitter.com/KwennB)
 
-- Pelumi Timonwa Akintokun - [Linkedin](https://www.linkedin.com/in/pelumi-akintokun/) [Twitter](https://twitter.com/timonwa_) [GitHub](https://github.com/timonwa)
+- Pelumi Timonwa Akintokun - [Twitter](https://twitter.com/timonwa_) [GitHub](https://github.com/timonwa)
 
-- Segun Light Olumide - [Linkedin](https://www.linkedin.com/in/wonexo/) [Twitter](https://twitter.com/wonexo)
+- Segun Light Olumide - [Twitter](https://twitter.com/wonexo)
 
 Learn more [here](https://twitter.com/empowerhercom/status/1554066239047274498?s=20&t=FpcUvRbr0vroejf1fneanw).
 
