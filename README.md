@@ -106,7 +106,7 @@ To learn more about speaking, check out the [talk, conference, and speaking page
 
 ## Need to contact someone?
 
-You can reach out to me (Benny Ifeanyi) on [Twitter](https://twitter.com/Bennykillua) or [Linkedin](https://www.linkedin.com/in/ifeanyi-iheagwara/)
+You can reach out to me (Benny Ifeanyi) on [Twitter](https://twitter.com/Bennykillua)
 
 The GitHub Octodex images used in this repo was gotten from the [offical website](https://octodex.github.com/)
 
