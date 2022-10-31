@@ -21,6 +21,8 @@ It comprises of and is not limited to
 ## Resources
 
 -  [APIS YOU WON'T HATE](https://apisyouwonthate.com/)
+-  [Starting Docs in a Startup: A First-in-the-Door Experience](https://www.youtube.com/watch?v=LLYdszgk4Bs)
+-  [VSCode setup for technical writers by Lornajane](https://lornajane.net/posts/2022/vscode-setup-for-technical-writers?utm_campaign=Everything%20Technical%20Writing%20Newsletter&utm_medium=email&utm_source=Revue%20newsletter)
 -  [Tips for writing SaaS documentation](https://thisisimportant.net/posts/tips-for-writing-saas-documentation/)
 - [This is important: Tech Writinh](https://thisisimportant.net/topics/tech-writing/)
 -  [Getting Started in API Documentation Writing by Robert Delwood](http://writeonce.org/starting_as_a_programmer_writer.php)
