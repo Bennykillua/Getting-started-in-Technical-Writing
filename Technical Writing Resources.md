@@ -35,6 +35,7 @@ You should follow these blogs:
 Wanna learn about technical writing? read the articles below or check out the community [slide contribution](https://github.com/Bennykillua/Getting-started-in-Technical-Writing/blob/main/Learning%20Resources/Technical%20writing%20slides.md)
 
 - [The Evolution of Technical Writing by Tom Johnson](https://idratherbewriting.com/2014/11/07/the-evolution-of-technical-writing/)
+- [Learning to code as a technical writer by Fabrizio Ferri Benedetti](https://passo.uno/tech-writer-learn-to-code/)
 - [Starting a Career as a Technical Writer by Leslie Hawkins](https://blog.helpdocs.io/starting-a-career-as-a-technical-writer/)
 - [Some advice if you're just starting out your technical writing career  by Tom Johnson ](https://idratherbewriting.com/blog/career-advice-just-starting-out.html)
 - [Everything You Need To Know About Technical Writing by Linda Ikechukwu](https://www.everythingtechnicalwriting.com/the-technical-writing-process/)
