@@ -27,6 +27,8 @@ You should follow these blogs:
 
 - [Write the doc Kenya](https://drive.google.com/drive/folders/1Nnvz3Qj2bHu0bw4zbivsXAlDkD9cjDmt)
 
+- [technical-writing-template by Bolaji Ayodeji](https://github.com/BolajiAyodeji/technical-writing-template)
+
 # Outlines
 
 - [Outline example by Benny Ifeanyi Iheagwara](https://docs.google.com/document/d/17P89X7Cu4-KUCnbLg5KfQmiV2e-yTbf1xQRx54pZ65s/edit?usp=sharing)
