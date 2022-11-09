@@ -108,6 +108,6 @@ To learn more about speaking, check out the [talk, conference, and speaking page
 
 You can reach out to me (Benny Ifeanyi) on [Twitter](https://twitter.com/Bennykillua)
 
-The GitHub Octodex images used in this repo was gotten from the [offical website](https://octodex.github.com/)
+The GitHub Octodex images used in this repo was gotten from the [official website](https://octodex.github.com/)
 
 We would greatly appreciate a Star if you like our project ⭐
