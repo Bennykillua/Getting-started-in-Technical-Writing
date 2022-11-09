@@ -33,6 +33,8 @@ You should follow these blogs:
 
 - [Outline example by Benny Ifeanyi Iheagwara](https://docs.google.com/document/d/17P89X7Cu4-KUCnbLg5KfQmiV2e-yTbf1xQRx54pZ65s/edit?usp=sharing)
 
+- [Outline example 2 by Ekekenta Clinton Odionyenfe](https://hackmd.io/VhOlBNAPSdO718O20PCcsg). You should also check out [this](https://hackmd.io/a433E5ntT-GbYe3A9lQQHA)
+
 # Blogs Post 
 Wanna learn about technical writing? read the articles below or check out the community [slide contribution](https://github.com/Bennykillua/Getting-started-in-Technical-Writing/blob/main/Learning%20Resources/Technical%20writing%20slides.md)
 
