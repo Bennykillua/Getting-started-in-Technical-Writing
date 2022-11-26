@@ -3,6 +3,7 @@
 # Productivity, writer's block, and everything in between
 
 ## Resources
+- [The Developer Advocacy Handbook by Christian Heilmann](https://developer-advocacy.com/)
 - [Contentre: Technical writer behind the scence](https://blog.contentre.io/author/wendy/)
 - [Why and how tech writers should work on their technical skills by Tom Johnson  and Amruta Ranade](https://app.stitcher.com/splayer/f/73517/55624504?size=large&variant=twittercard&autoplay=1&auto_play=true)
 - [3 Tricks to Overcome Writer's Block by Ryan Macklin](https://thegooddocsproject.dev/blog/3-tricks-to-overcome-writers-block/?utm_campaign=Everything%20Technical%20Writing%20Newsletter&utm_medium=email&utm_source=Revue%20newsletter)
