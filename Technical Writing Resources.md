@@ -21,6 +21,8 @@ You should follow these blogs:
 
 - [APIS YOU WON'T HATE](https://apisyouwonthate.com/)
 
+- [This is important by Sarah Moir](https://thisisimportant.net/)
+
 # Technical Writing Books
 
 # Community resources
