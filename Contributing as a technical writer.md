@@ -25,7 +25,7 @@ For paid opportunities, please check out the [getting paid session](https://gith
 
 ## Contributing to open source as a technical writer
 
-Open Source is a term used to describe softwares whose original source code can be freely available, can be redistributed, and also modified. Open Source embodies a spirit of collaboration, transparency, and community-oriented contributions, among other things.
+Open Source is a term used to describe softwares whose original source code are freely available, can be redistributed, and also modified. Open Source embodies a spirit of collaboration, transparency, and community-oriented contributions, among other things.
 
 Chech [here](https://benny.hashnode.dev/how-to-contribute-to-open-source-projects-as-a-non-coder#:~:text=you%20to%20contribute.-,Open%20Source,-Projects) to learn more and find open source projects.
 
