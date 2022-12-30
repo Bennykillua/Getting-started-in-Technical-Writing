@@ -3,7 +3,7 @@
 
 # Contributing
 
-Welcome contributions from the community! If you'd like to submit a contributions, please make a pull request directly and we'll review it.
+Welcome to the community! If you'd like to submit a contributions, please make a pull request directly and we'll review it.
 
 If you'd like to suggest a change to the data or the way it's organized here, please one up an issue. first so we can discuss it.
 
