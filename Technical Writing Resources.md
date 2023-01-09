@@ -53,6 +53,7 @@ Wanna learn about technical writing? read the articles below or check out the co
 - [My Tech Writing Process by Amruta Ranade](https://amrutaranade.com/2018/03/07/my-writing-process/)
 - [What do Technical Writers do? (Also, what is Technical Writing?) by Amruta Ranade](https://www.youtube.com/watch?v=biocrCx5T_k)
 - [Is Technical Writing the Right Career for You?  by Amruta Ranade](https://www.notion.so/Is-Technical-Writing-the-Right-Career-for-You-3085604c58ad453086331cdabf1953c5)
+- [Writing great release notes by Jose Luis Zapata De Santiago](https://bufferbuffer.com/writing-great-release-notes/)
 
 
 # Style Guide
