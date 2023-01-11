@@ -43,7 +43,7 @@ This guide was a modification of the [Microsoft 365 Platform Community Blog: How
 
     * Open [Bennykillua/Getting-started-in-Technical-Writing](https://github.com/Bennykillua/Getting-started-in-Technical-Writing) (this repository)
     * Select **Fork** 
-    * Make a [Fork](https://github.com/Bennykillua/Getting-started-in-Technical-Writing/fork] --> The URL of your fork is now `https://github.com/<YOUR GITHUB ACCOUNT>/blog/`
+    * Make a [Fork](https://github.com/Bennykillua/Getting-started-in-Technical-Writing/fork) --> The URL of your fork is now `https://github.com/<YOUR GITHUB ACCOUNT>/blog/`
 
 
 1. Clone the repository
