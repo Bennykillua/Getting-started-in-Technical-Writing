@@ -29,6 +29,14 @@ Open Source is a term used to describe softwares whose original source code are 
 
 Chech [here](https://benny.hashnode.dev/how-to-contribute-to-open-source-projects-as-a-non-coder#:~:text=you%20to%20contribute.-,Open%20Source,-Projects) to learn more and find open source projects.
 
+## How to find open source projects looking for docs contribution?
+
+- [Use GitHub/GitLab topics to find docs projects](https://opensource.com/article/22/10/how-to-contribute-hacktoberfest?sc_cid=7016000000127ECAAY#:~:text=GitHub%20search%20syntax.-,Find%20non%2Dcode,-issues%20at%20Hacktoberfest)
+
+- [Ansible OS contribution](https://github.com/orgs/ansible-community/projects/3/views/1)
+
+- [numpy-newsletter issues](https://github.com/numpy/numpy-newsletter/issues)
+
 ## Resources
 
 - [How to Contribute to Open Source Projects as a Non-Coder? by Ifeanyi Benny Iheagwara](https://benny.hashnode.dev/how-to-contribute-to-open-source-projects-as-a-non-coder)
