@@ -52,6 +52,7 @@ Chech [here](https://benny.hashnode.dev/how-to-contribute-to-open-source-project
 - [Ansible](https://github.com/ansible/ansible/issues?q=is%3Aissue+is%3Aopen+label%3Adocs)
 - [docToolchain](https://github.com/docToolchain/docToolchain/issues) you can also start by creating [tutorials for docToolChain](https://github.com/docToolchain/tutorials)
 - [Ansible OS contribution](https://github.com/orgs/ansible-community/projects/3/views/1)
+- [Microsoft Docs](https://techcommunity.microsoft.com/t5/itops-talk-blog/how-you-can-contribute-to-open-source-projects-on-github/ba-p/1475375)
 
 - [numpy-newsletter issues](https://github.com/numpy/numpy-newsletter/issues)
 
