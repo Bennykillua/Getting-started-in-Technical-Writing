@@ -90,7 +90,8 @@ A maintainer will review your pull request and merge your changes. Otherwise, it
 
 This repository is maintained by volunteers in their free time, please be kind. Everyone is doing their best to keep things moving forward.
 
-**11.** **Congratulations!** You've made your first contribution to [Getting-started-in-Technical-Writing Repo](https://github.com/Bennykillua/Getting-started-in-Technical-Writing) 🙌🏼 Don't forget to add your name to the [contributors file](https://github.com/Bennykillua/Getting-started-in-Technical-Writing/blob/main/Contributor.md)
+**Congratulations!** You've made your first contribution to [Getting-started-in-Technical-Writing Repo](https://github.com/Bennykillua/Getting-started-in-Technical-Writing) 🙌🏼 
+
 
 ## Issues
 
