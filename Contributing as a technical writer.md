@@ -33,9 +33,9 @@ Chech [here](https://benny.hashnode.dev/how-to-contribute-to-open-source-project
 
 - [Use GitHub/GitLab topics to find docs projects](https://opensource.com/article/22/10/how-to-contribute-hacktoberfest?sc_cid=7016000000127ECAAY#:~:text=GitHub%20search%20syntax.-,Find%20non%2Dcode,-issues%20at%20Hacktoberfest)
 
-- [Ansible OS contribution](https://github.com/orgs/ansible-community/projects/3/views/1)
+- [List of Open Source Projects with Documentation Opportunities by Amruta Ranade](https://amrutaranade.com/2018/03/21/list-of-open-source-projects-that-accept-docs-contributions/)
 
-- [numpy-newsletter issues](https://github.com/numpy/numpy-newsletter/issues)
+- [Open-Source Projects for Technical Writers by Kesi Parker](https://medium.com/technical-writing-is-easy/open-source-projects-for-technical-writers-de53fb3dd4c9)
 
 ## Resources
 
@@ -47,16 +47,13 @@ Chech [here](https://benny.hashnode.dev/how-to-contribute-to-open-source-project
 - [Contributing to Open Source Beyond Software Development by Ifeanyi Benny Iheagwara](https://klarasystems.com/articles/contributing-to-open-source-beyond-software-development/)
 - [Reader question: Contributing docs to open source projects by Amruta Ranade](https://amrutaranade.com/2018/06/17/reader-question-contributing-docs-to-open-source-projects/)
 
-
 ## Open Source Projects
 - [Updating Airbyte Documentation](https://docs.airbyte.com/contributing-to-airbyte/updating-documentation/) 
 - [Ansible](https://github.com/ansible/ansible/issues?q=is%3Aissue+is%3Aopen+label%3Adocs)
 - [docToolchain](https://github.com/docToolchain/docToolchain/issues) you can also start by creating [tutorials for docToolChain](https://github.com/docToolchain/tutorials)
+- [Ansible OS contribution](https://github.com/orgs/ansible-community/projects/3/views/1)
 
-## Where can I find Open Source Projects?
-- [List of Open Source Projects with Documentation Opportunities by Amruta Ranade](https://amrutaranade.com/2018/03/21/list-of-open-source-projects-that-accept-docs-contributions/)
-- [Open-Source Projects for Technical Writers by Kesi Parker](https://medium.com/technical-writing-is-easy/open-source-projects-for-technical-writers-de53fb3dd4c9)
-- [How to contribute to Hacktoberfest by Ifeanyi Benny Iheagwara](https://opensource.com/article/22/10/how-to-contribute-hacktoberfest?sc_cid=7016000000127ECAAY)
+- [numpy-newsletter issues](https://github.com/numpy/numpy-newsletter/issues)
 
 ## Open Source Internship
 
