@@ -22,6 +22,7 @@ For paid opportunities, please check out the [getting paid session](https://gith
 - [Javascript Works](https://javascript.works-hub.com/learn/write-content-for-javascript-works-fe7a7)
 - [Contribute to stackabuse](https://stackabuse.com/)
 - [Write for projectpro](https://www.projectpro.io/write-for-projectpro)
+- [Better Programming](https://betterprogramming.pub/write-for-us-5c4bcba59397)
 
 ## Contributing to open source as a technical writer
 
