@@ -81,6 +81,10 @@ Wanna make a contribution but don't know how? Check out the [how to contribute p
 
 - [Kaitlyn Arford's freelancer newsletter](https://www.buymeacoffee.com/kmarford/posts)
 
+- [CSS-tricks](https://css-tricks.com/guest-writing-for-css-tricks/)
+
+- [ContentLab](https://contentlab.com/writeforus/)
+
 ### Technical Writing Communities
 
 *“Alone, we can do so little; together, we can do so much” – Helen Keller*
