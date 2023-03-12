@@ -85,6 +85,8 @@ Wanna make a contribution but don't know how? Check out the [how to contribute p
 
 - [ContentLab](https://contentlab.com/writeforus/)
 
+- [Giskard](https://www.giskard.ai/write-for-the-community)
+
 ### Technical Writing Communities
 
 *“Alone, we can do so little; together, we can do so much” – Helen Keller*
