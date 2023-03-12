@@ -24,6 +24,7 @@ For paid opportunities, please check out the [getting paid session](https://gith
 - [Write for projectpro](https://www.projectpro.io/write-for-projectpro)
 - [Better Programming](https://betterprogramming.pub/write-for-us-5c4bcba59397)
 - [What is Layer5 Writing Program?](https://layer5.io/community/handbook/writing-program)
+- [Superpath Slack Community](https://superpath.slite.page/p/uxi28Hdkunadzo/Guest-Contributions)
 
 ## Contributing to open source as a technical writer
 
