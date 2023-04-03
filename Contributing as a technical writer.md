@@ -76,6 +76,7 @@ Chech [here](https://benny.hashnode.dev/how-to-contribute-to-open-source-project
      - [tech writer guide](https://developers.google.com/season-of-docs/docs/tech-writer-guide)
      - [Gbadebo Bello's Propsal](https://res.cloudinary.com/gbahdeyboh/image/upload/v1647777013/Screenshot_2022-03-20_at_12.49.54_PM_kwejo8.png)
      - [Gbadebo's GSoD 2020 Proposal: Improving Wikimedia's onboarding processes and documentation standards](https://phabricator.wikimedia.org/T255360)
+     - [Nwokocha wisdom's GSoD](https://docs.google.com/document/d/1wzpZ5mIEqd30kuZOnLECIpRp3f_cTGwCdkepI6znoaM/edit)
     
 
 
