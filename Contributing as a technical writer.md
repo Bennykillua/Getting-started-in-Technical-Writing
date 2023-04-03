@@ -73,6 +73,9 @@ Chech [here](https://benny.hashnode.dev/how-to-contribute-to-open-source-project
      - [Google Season of Docs proposal for VLC](https://docs.google.com/document/d/1sjHn5OGVZB0EbWHFL9_9Ty63oCF2itlYww2bf9Qhwtc/edit)
      - [GSoD 2020 Proposal: Improving Wikimedia's onboarding processes and documentation standards](https://phabricator.wikimedia.org/T255360)
      - [[2020] Season of Docs // Free resource for writing proposals](https://techwriting.ck.page/writing-proposals)
+     - [tech writer guide](https://developers.google.com/season-of-docs/docs/tech-writer-guide)
+     - [Gbadebo Bello's Propsal](https://res.cloudinary.com/gbahdeyboh/image/upload/v1647777013/Screenshot_2022-03-20_at_12.49.54_PM_kwejo8.png)
+     - [Gbadebo's GSoD 2020 Proposal: Improving Wikimedia's onboarding processes and documentation standards](https://phabricator.wikimedia.org/T255360)
     
 
 
