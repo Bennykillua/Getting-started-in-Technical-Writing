@@ -6,6 +6,8 @@ A curration of learning resources; articles, videos, and much more.
 Here are a few [Technical Writing courses](https://github.com/Bennykillua/Getting-started-in-Technical-Writing/blob/main/Technical%20Writing%20Courses.md) and 
 [Slides (quick and short) ](https://github.com/Bennykillua/Getting-started-in-Technical-Writing/blob/main/Learning%20Resources/Technical%20writing%20slides.md) to help you get started.
 
+Watch some [beginner friendly videos](https://github.com/Bennykillua/Getting-started-in-Technical-Writing/blob/main/Learning%20Resources/Technical%20writing%20slides.md) on technical writing.
+
 
 # Technical Writing Blogs
 
@@ -26,6 +28,9 @@ You should follow these blogs:
 - [This is important by Sarah Moir](https://thisisimportant.net/)
 
 # Technical Writing Books
+
+- [Docs for Developers: An Engineer’s Field Guide to Technical Writing 1st ed. Edition
+by Jared Bhatti (Author), Zachary Sarah Corleissen (Contributor), Jen Lambourne (Contributor), David Nunez (Contributor), Heidi Waterhouse (Contributor)](https://www.amazon.com/Docs-Developers-Engineers-Technical-Writing/dp/1484272161)
 
 # Community resources
 
