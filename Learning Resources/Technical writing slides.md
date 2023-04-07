@@ -20,3 +20,18 @@ A compilation of slides on technical, content writing is available for anyone wh
 - [Writing Style Guide by Ifeanyi Benny Iheagwara](https://docs.google.com/presentation/d/1XRg7x9DqsO525iRhU03F2pvJCNPOwPet9QX02ygaVMg/edit?usp=sharing)
 
 - [Write the Docs Prague 2022: Creating documentation for the African audience by Mustapha Rufai and Benny Ifeanyi Iheagwara](https://docs.google.com/presentation/d/1WE-8PFfDlEYMywA_Yl5ia54gleVuVXSR5WaUgQCVOKw/edit?usp=sharing). Here is the [video](https://www.youtube.com/watch?v=w2L3QoTnYbE) of the talk.
+
+
+# Tutor-based Videos
+
+A compilation of vidoes by various technical writer.
+
+- [Introduction to Open Source by Samson Goddy](https://www.youtube.com/watch?v=rflftNy7RV8)
+- [Introduction to writing style guides by Barrie](https://www.youtube.com/watch?v=KbDLPz0QvvU)
+- [Introduction to command line interface by Eze](https://www.youtube.com/watch?v=5V5JWDhe36k)
+- [Introduction to Knowledgebase by Oana](https://www.youtube.com/watch?v=p2Zzfs9L8Ek)
+- [Introduction to information architecture by Wisdom](https://www.youtube.com/watch?v=c23Yz2vCWxA)
+- [Introduction to Git and Github by Dillion](https://www.youtube.com/watch?v=f2S8UuDcFEQ)
+- [Introduction to Git and GitHub part 2 by Anita](https://www.youtube.com/watch?v=pIQlzo8Wkvs)
+- [Introduction to markdown by Idris](https://www.youtube.com/watch?v=8-gJmNPlanw)
+- 
