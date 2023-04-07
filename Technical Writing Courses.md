@@ -4,6 +4,7 @@
 
 Listed below is a curration of courses you can take. Looking for blog post and resource related to techncial writing? check [here](https://github.com/Bennykillua/Getting-started-in-Technical-Writing/blob/main/Technical%20Writing%20Resources.md)
 
+For tutor-based videos check out these [beginner friendly videos](https://github.com/Bennykillua/Getting-started-in-Technical-Writing/blob/main/Learning%20Resources/Technical%20writing%20slides.md).
 
 - [Google Technical Writing Courses](https://developers.google.com/tech-writing)
 
