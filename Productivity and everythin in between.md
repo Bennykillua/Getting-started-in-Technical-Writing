@@ -20,3 +20,4 @@
 - [Why You Should NOT Move in Silence: Why? Are you a thief? by Linda Ikechukwu](https://middleclassnigeriangirl.substack.com/p/why-you-should-not-move-in-silence?utm_medium=web)
 - [The Big Blog Promotion Checklist by Karl Hughes](https://draft.dev/learn/promotion)
 - [When to Quit by Ben Heim](https://medium.com/icarus-unbound/when-to-quit-7a4c363ba4ba)
+- [How I Hacked a Group of Hackers Operating on Nigerian Banks: A Tale of Nigeria's Cybersecurity State of Financial Institutions. by David S.](https://www.linkedin.com/pulse/how-i-hacked-group-hackers-operating-nigerian-banks-tale-sennaike/)
