@@ -87,7 +87,7 @@ Chech [here](https://benny.hashnode.dev/how-to-contribute-to-open-source-project
     - [Outreachy Internship: My Experience by Nmeso](https://medium.com/@nmesoegwuekwe/outreachy-internship-my-experience-aecb3fb2791b)
     - [Everyone Struggles: struggles as an intern for the Outreachy internships by Nmeso](https://medium.com/@nmesoegwuekwe/everyone-struggles-c8c33233a764)
     - [Getting into outreachy by Nmeso](https://nmesoegwuekwe.github.io/getting-into-outreachy/)
-    
+    - [Outreachy Dreams: My Journey of Failing, Learning, and Succeeding by Osetiemoria Ebelubhuhi](https://medium.com/@ebelubhuhiose/outreachy-dreams-my-journey-of-failing-learning-and-succeeding-c725019bd404)    
 
 
 - [GNOME OPW Applicants](https://wiki.gnome.org/GnomeWomen/OutreachProgram2012#Outreach_Program_for_Women) GNOME Outreach Program for Women internships
