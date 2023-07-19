@@ -53,7 +53,9 @@ Wanna make a contribution but don't know how? Check out the [how to contribute p
 
 - Getting started slides from [Empower Her Community in collaboration with Non Tech in Tech  bootcamp July/August 2022 ](https://github.com/Bennykillua/Getting-started-in-Technical-Writing/blob/main/Empower%20Her%20X%20Non%20Tech%20in%20Tech.md).
 
-- [Technical writing slides](https://github.com/Bennykillua/Getting-started-in-Technical-Writing/blob/main/Learning%20Resources/Technical%20writing%20slides.md) 
+- [Technical writing slides](https://github.com/Bennykillua/Getting-started-in-Technical-Writing/blob/main/Learning%20Resources/Technical%20writing%20slides.md)
+
+- [Tech: Write & Earn with DAvid Herbert & Sokaribo Senibo](https://startuptrybe.trainercentralsite.com/course/techwriteearn#/home)
 
 ### Getting paid
 
@@ -86,6 +88,8 @@ Wanna make a contribution but don't know how? Check out the [how to contribute p
 - [ContentLab](https://contentlab.com/writeforus/)
 
 - [Giskard](https://www.giskard.ai/write-for-the-community)
+
+- [Who Pays Technical Writers](https://whopaystechnicalwriters.com/)
 
 ### Technical Writing Communities
 
