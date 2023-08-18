@@ -24,7 +24,7 @@ A compilation of slides on technical writing.
 
 # Tutor-based Videos
 
-A compilation of vidoes by various technical writer.
+A compilation of vidoes by various technical writers.
 
 - [Introduction to Open Source by Samson Goddy](https://www.youtube.com/watch?v=rflftNy7RV8)
 - [Introduction to writing style guides by Barrie](https://www.youtube.com/watch?v=KbDLPz0QvvU)
@@ -34,4 +34,5 @@ A compilation of vidoes by various technical writer.
 - [Introduction to Git and Github by Dillion](https://www.youtube.com/watch?v=f2S8UuDcFEQ)
 - [Introduction to Git and GitHub part 2 by Anita](https://www.youtube.com/watch?v=pIQlzo8Wkvs)
 - [Introduction to markdown by Idris](https://www.youtube.com/watch?v=8-gJmNPlanw)
-- 
+- [Introduction to Knowledgebase by Oana](https://youtu.be/p2Zzfs9L8Ek)
+- [How to use Google Document with Benny](https://youtu.be/LIU1SMVhQbo)
