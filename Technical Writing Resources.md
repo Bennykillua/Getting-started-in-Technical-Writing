@@ -32,6 +32,8 @@ You should follow these blogs:
 - [Docs for Developers: An Engineer’s Field Guide to Technical Writing 1st ed. Edition
 by Jared Bhatti (Author), Zachary Sarah Corleissen (Contributor), Jen Lambourne (Contributor), David Nunez (Contributor), Heidi Waterhouse (Contributor)](https://www.amazon.com/Docs-Developers-Engineers-Technical-Writing/dp/1484272161)
 
+- [Writing for Software Developers by Philip Kiely](https://philipkiely.com/wfsd/)
+
 # Community resources
 
 - [Write the doc Kenya](https://drive.google.com/drive/folders/1Nnvz3Qj2bHu0bw4zbivsXAlDkD9cjDmt)
