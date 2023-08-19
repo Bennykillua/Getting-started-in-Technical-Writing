@@ -36,3 +36,7 @@ A compilation of vidoes by various technical writers.
 - [Introduction to markdown by Idris](https://www.youtube.com/watch?v=8-gJmNPlanw)
 - [Introduction to Knowledgebase by Oana](https://youtu.be/p2Zzfs9L8Ek)
 - [How to use Google Document with Benny](https://youtu.be/LIU1SMVhQbo)
+- [Technical Writing Portfolio](https://youtu.be/eL_jAfO5Vr4)
+- [Intoduction to content marketing](https://youtu.be/pvxb49Kex1Q)
+- [Introduction to search engine optimization (SEO) by TeeFaith](https://youtu.be/c7wPmkD1Ii0)
+- [Introduction to quality assurance by Wisdom](https://youtu.be/KkslEb0TWik)
