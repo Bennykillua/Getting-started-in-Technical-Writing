@@ -27,6 +27,8 @@ You should follow these blogs:
 
 - [This is important by Sarah Moir](https://thisisimportant.net/)
 
+- [Zaycodes](https://zaycodes.com/technical-writing/)
+
 # Technical Writing Books
 
 - [Docs for Developers: An Engineer’s Field Guide to Technical Writing 1st ed. Edition
