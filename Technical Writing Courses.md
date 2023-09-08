@@ -20,4 +20,4 @@ For tutor-based videos check out these [beginner friendly videos](https://github
 - [API Documentation for Developers by Shalvah](https://apidocsfordevs.com/)
 
 - [Readthedocs Writing Documentation](https://docs-guide.readthedocs.io/en/latest/writing/)
-- [Tech: Write & Earn: A comprehensive hands-on workshop to help you get started as a technical writer.](https://learn.startuptrybe.org/course/techwriteearn?previouspage=home&isenrolled=no)
+- [Tech: Write & Earn: A comprehensive hands-on workshop to help you get started as a technical writer. by David Herbert and Sokaribo Senibo](https://learn.startuptrybe.org/course/techwriteearn?previouspage=home&isenrolled=no)
