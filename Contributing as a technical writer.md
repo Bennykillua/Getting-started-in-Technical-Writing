@@ -1,8 +1,7 @@
+# Contributing to publications and open source projects as a technical writer
 
-# Contributing to publications and open source as a technical writer
 
-
-## Contributing to publications as a technical writer
+# Contributing to publications as a technical writer
 
 You can contribute by writing for a few publications. Though you wouldn't be paid, you get visibility and a chance to share your knowledge with a broader audience while being recognized as a subject matter expert. The best part is that most of these publications have in-house editors, so you get better at writing. 
 
@@ -26,7 +25,7 @@ For paid opportunities, please check out the [getting paid session](https://gith
 - [What is Layer5 Writing Program?](https://layer5.io/community/handbook/writing-program)
 - [Superpath Slack Community](https://superpath.slite.page/p/uxi28Hdkunadzo/Guest-Contributions)
 
-## Contributing to open source as a technical writer
+# Contributing to open source as a technical writer
 
 Open Source is a term used to describe softwares whose original source code are freely available, can be redistributed, and also modified. Open Source embodies a spirit of collaboration, transparency, and community-oriented contributions, among other things.
 
@@ -50,6 +49,9 @@ Chech [here](https://benny.hashnode.dev/how-to-contribute-to-open-source-project
 - [Contributing to Open Source Beyond Software Development by Ifeanyi Benny Iheagwara](https://klarasystems.com/articles/contributing-to-open-source-beyond-software-development/)
 - [Reader question: Contributing docs to open source projects by Amruta Ranade](https://amrutaranade.com/2018/06/17/reader-question-contributing-docs-to-open-source-projects/)
 
+## Hacktobestfest
+- [Preparing for Hacktobestfest](https://tome.app/cloudpuff/hacktoberfest-cln4nli9l04gxmz7bn7gfzfii)
+  
 ## Open Source Projects
 - [Updating Airbyte Documentation](https://docs.airbyte.com/contributing-to-airbyte/updating-documentation/) 
 - [Ansible](https://github.com/ansible/ansible/issues?q=is%3Aissue+is%3Aopen+label%3Adocs)
