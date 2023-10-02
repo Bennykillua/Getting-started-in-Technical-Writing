@@ -41,7 +41,9 @@ Wanna make a contribution but don't know how? Check out the [how to contribute p
 
 - [Simple Git commands](https://github.com/Bennykillua/Getting-started-in-Technical-Writing/blob/main/Learning%20Git.MD)
 
-- [Contributing to publications and open source as a technical writer](https://github.com/Bennykillua/Getting-started-in-Technical-Writing/blob/main/Contributing%20as%20a%20technical%20writer.md)
+- [Contributing to open source as a technical writer](https://github.com/Bennykillua/Getting-started-in-Technical-Writing/blob/main/Contributing%20to%20open%20source%20as%20a%20technical%20writer.md)
+
+- [Contributing to publications as a technical writer](https://github.com/Bennykillua/Getting-started-in-Technical-Writing/blob/main/Contributing%20to%20publications%20as%20a%20technical%20writer.md)
 
 - [Resume, portfolio, interviews, and everything in between](https://github.com/Bennykillua/Getting-started-in-Technical-Writing/blob/main/Interviews%20and%20getting%20paid.md)
 
