@@ -26,7 +26,7 @@ Chech [here](https://benny.hashnode.dev/how-to-contribute-to-open-source-project
 - [Preparing for Hacktobestfest](https://tome.app/cloudpuff/hacktoberfest-cln4nli9l04gxmz7bn7gfzfii)
   
 ## Open Source Projects
-- [Updating Airbyte Documentation](https://docs.airbyte.com/contributing-to-airbyte/updating-documentation/) 
+- [Updating Airbyte Documentation](https://docs.airbyte.com/contributing-to-airbyte/writing-docs) 
 - [Ansible](https://github.com/ansible/ansible/issues?q=is%3Aissue+is%3Aopen+label%3Adocs)
 - [docToolchain](https://github.com/docToolchain/docToolchain/issues) you can also start by creating [tutorials for docToolChain](https://github.com/docToolchain/tutorials)
 - [Ansible OS contribution](https://github.com/orgs/ansible-community/projects/3/views/1)
