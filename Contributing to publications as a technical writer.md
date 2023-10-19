@@ -21,4 +21,5 @@ For paid opportunities, please check out the [getting paid session](https://gith
 - [Better Programming](https://betterprogramming.pub/write-for-us-5c4bcba59397)
 - [What is Layer5 Writing Program?](https://layer5.io/community/handbook/writing-program)
 - [Superpath Slack Community](https://superpath.slite.page/p/uxi28Hdkunadzo/Guest-Contributions)
+- [The ML pracitioner](https://medium.com/the-ml-practioner/write-for-us-497a299d97a0)
 
