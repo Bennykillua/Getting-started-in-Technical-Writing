@@ -31,6 +31,10 @@ You should follow these blogs:
 
 - [Hey, I'm Dachary Carey](https://dacharycarey.com/)
 
+- [passo.uno by Fabrizio Ferri Benedetti](https://passo.uno/)
+
+-  
+
 # Technical Writing Books
 
 - [Docs for Developers: An Engineer’s Field Guide to Technical Writing 1st ed. Edition
