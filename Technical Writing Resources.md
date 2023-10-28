@@ -29,6 +29,8 @@ You should follow these blogs:
 
 - [Zaycodes](https://zaycodes.com/technical-writing/)
 
+- [Hey, I'm Dachary Carey](https://dacharycarey.com/)
+
 # Technical Writing Books
 
 - [Docs for Developers: An Engineer’s Field Guide to Technical Writing 1st ed. Edition
