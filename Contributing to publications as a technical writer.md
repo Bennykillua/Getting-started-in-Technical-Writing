@@ -5,7 +5,7 @@ You can contribute by writing for a few publications. Though you wouldn't be pai
 For paid opportunities, please check out the [getting paid session](https://github.com/Bennykillua/Getting-started-in-Technical-Writing/blob/main/README.md)
 
 ## Publications
-- [FreeCodeCamp](https://www.freecodecamp.org/news/how-to-write-for-freecodecamp/).. apply [here](https://www.freecodecamp.org/news/developer-news-style-guide/)
+- [FreeCodeCamp](https://www.freecodecamp.org/news/how-to-write-for-freecodecamp/) apply [here](https://www.freecodecamp.org/news/developer-news-style-guide/)
 - [Microsoft 365 Platform Community Blog](https://pnp.github.io/blog/post/contribute-blog/)
 - [Towards Data Science](https://towardsdatascience.com/questions-96667b06af5)
 - [Analytics Vidhya](https://medium.com/analytics-vidhya/why-write-for-analytics-vidhya-6c7ea8f0aeef)
