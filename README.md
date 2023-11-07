@@ -6,9 +6,9 @@ A compilation of resources for anyone who wants to get started or learn more abo
 
 We would greatly appreciate a Star if you like our project ⭐
 
-# What is Technical Writing ?
+# What is Technical Writing?
 
-One of my favourite explanations of technical writing comes from [Tom Johnson](https://www.linkedin.com/in/tomjoht/), who defines it as the interaction of simplicity and complexity.
+One of my favorite explanations of technical writing comes from [Tom Johnson](https://www.linkedin.com/in/tomjoht/), who defines it as the interaction of simplicity and complexity.
 
 I'd define technical writing as a form of writing where the author discusses a specific topic that calls for direction, instruction, or explanation.
 
@@ -51,13 +51,13 @@ Wanna make a contribution but don't know how? Check out the [how to contribute p
 
 - [Speaking at Technical Writing communities and conferences](https://github.com/Bennykillua/Getting-started-in-Technical-Writing/blob/main/Learning%20Resources/Speak.md)
 
-### Technical writing bootcamp
+### Technical writing boot camp
 
-- Getting started slides from [Empower Her Community in collaboration with Non Tech in Tech  bootcamp July/August 2022 ](https://github.com/Bennykillua/Getting-started-in-Technical-Writing/blob/main/Empower%20Her%20X%20Non%20Tech%20in%20Tech.md).
+- Getting started slides from [Empower Her Community in collaboration with Non-Tech in Tech  Bootcamp July/August 2022 ](https://github.com/Bennykillua/Getting-started-in-Technical-Writing/blob/main/Empower%20Her%20X%20Non%20Tech%20in%20Tech.md).
 
 - [Technical writing slides](https://github.com/Bennykillua/Getting-started-in-Technical-Writing/blob/main/Learning%20Resources/Technical%20writing%20slides.md)
 
-- [Tech: Write & Earn with DAvid Herbert & Sokaribo Senibo](https://startuptrybe.trainercentralsite.com/course/techwriteearn#/home)
+- [Tech: Write & Earn with David Herbert & Sokaribo Senibo](https://startuptrybe.trainercentralsite.com/course/techwriteearn#/home)
 
 ### Getting paid
 
@@ -83,7 +83,7 @@ Wanna make a contribution but don't know how? Check out the [how to contribute p
 
 - [UX Content Collective](https://jobs.uxcontent.com/) 
 
-- [Kaitlyn Arford's freelancer newsletter](https://www.buymeacoffee.com/kmarford/posts)
+- [Kaitlyn Alford's freelancer newsletter](https://www.buymeacoffee.com/kmarford/posts)
 
 - [CSS-tricks](https://css-tricks.com/guest-writing-for-css-tricks/)
 
@@ -93,13 +93,15 @@ Wanna make a contribution but don't know how? Check out the [how to contribute p
 
 - [Who Pays Technical Writers](https://whopaystechnicalwriters.com/)
 
+- [LWN](https://lwn.net/op/AuthorGuide.lwn)
+
 ### Technical Writing Communities
 
 *“Alone, we can do so little; together, we can do so much” – Helen Keller*
 
 - [Let's Talk Technical Writing](https://twitter.com/writefortech): Bi-weekly Twitter spaces about Technical writing
 
-- Devwrites Africa. To join, send a dm to [Collins](https://twitter.com/codev206) or [Benny](https://twitter.com/Bennykillua).
+- Devwrites Africa. To join, send a DM to [Collins](https://twitter.com/codev206) or [Benny](https://twitter.com/Bennykillua).
 
 - [Write the Docs](https://www.writethedocs.org/): The largest and a global community of people who care about documentation. Join the [slack](https://www.writethedocs.org/slack/)
   - [Write the Docs Nigeria](https://www.meetup.com/write-the-docs-nigeria/) [Twitter](https://twitter.com/NgDocs)
@@ -114,7 +116,7 @@ Wanna make a contribution but don't know how? Check out the [how to contribute p
 
 - [Content Strategy](https://community.content-strategy.com/)
 
-### Share knowledge and speaking at Technical Writing communities and conferences
+### Share knowledge and speak at Technical Writing communities and conferences
 
 To learn more about speaking, check out the [talk, conference, and speaking page](https://github.com/Bennykillua/Getting-started-in-Technical-Writing/blob/main/Learning%20Resources/Speak.md)
 
@@ -122,6 +124,6 @@ To learn more about speaking, check out the [talk, conference, and speaking page
 
 You can reach out to me (Benny Ifeanyi) on [Twitter](https://twitter.com/Bennykillua)
 
-The GitHub Octodex images used in this repo was gotten from the [official website](https://octodex.github.com/)
+The GitHub Octodex images used in this repo were gotten from the [official website](https://octodex.github.com/)
 
 We would greatly appreciate a Star if you like our project ⭐
