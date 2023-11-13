@@ -33,7 +33,9 @@ You should follow these blogs:
 
 - [passo.uno by Fabrizio Ferri Benedetti](https://passo.uno/)
 
--  
+# Technical Writing Roadmap
+
+- [Technical writing Roadmap by Hackmamba ](https://roadmap.sh/technical-writer)  
 
 # Technical Writing Books
 
