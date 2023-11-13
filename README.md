@@ -51,6 +51,8 @@ Wanna make a contribution but don't know how? Check out the [how to contribute p
 
 - [Speaking at Technical Writing communities and conferences](https://github.com/Bennykillua/Getting-started-in-Technical-Writing/blob/main/Learning%20Resources/Speak.md)
 
+- [Technical writing Roadmaps by Hackmamba ](https://roadmap.sh/technical-writer)
+
 ### Technical writing boot camp
 
 - Getting started slides from [Empower Her Community in collaboration with Non-Tech in Tech  Bootcamp July/August 2022 ](https://github.com/Bennykillua/Getting-started-in-Technical-Writing/blob/main/Empower%20Her%20X%20Non%20Tech%20in%20Tech.md).
