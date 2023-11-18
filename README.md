@@ -4,7 +4,7 @@
 
 A compilation of resources for anyone who wants to get started or learn more about technical writing.
 
-We would greatly appreciate a Star if you like our project ⭐
+We would greatly appreciate a star if you like our project ⭐
 
 # What is Technical Writing?
 
@@ -96,6 +96,8 @@ Wanna make a contribution but don't know how? Check out the [how to contribute p
 - [Who Pays Technical Writers](https://whopaystechnicalwriters.com/)
 
 - [LWN](https://lwn.net/op/AuthorGuide.lwn)
+
+- [Freedomwithwriting: Writing contest](https://www.freedomwithwriting.com/freedom/)
 
 ### Technical Writing Communities
 
