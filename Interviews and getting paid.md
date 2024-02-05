@@ -41,5 +41,6 @@ Technical writing careers are often a mystery to those on the outside. What do t
 - [Crafting your technical writing resume by Amruta Ranade](https://amrutaranade.com/2018/01/17/crafting-your-technical-writing-resume/)
 - [How to conduct an effective job search in technical writing by Amruta Ranade](https://amrutaranade.com/2018/01/10/how-to-conduct-an-effective-job-search-in-technical-writing/)
 - [Cover Letter Template for your next job 💪🏽 by Dillion Megida](https://dillionmegida.com/p/cover-letter-template/)
+- [Engineering Leadership by Gregor Ojstersek](https://newsletter.eng-leadership.com/t/preparing-for-interviews?utm_source=substack&utm_medium=email)
 
 
