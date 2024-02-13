@@ -55,7 +55,7 @@ Wanna make a contribution but don't know how? Check out the [how to contribute p
 
 ### Technical writing boot camp
 
-- Getting started slides from [Empower Her Community in collaboration with Non-Tech in Tech  Bootcamp July/August 2022 ](https://github.com/Bennykillua/Getting-started-in-Technical-Writing/blob/main/Empower%20Her%20X%20Non%20Tech%20in%20Tech.md).
+- Getting started slides from [Empower Her Community in collaboration with Non-Tech in Tech  Bootcamp July/August 2022 ](https://github.com/Bennykillua/Getting-started-in-Technical-Writing/blob/main/Empower%20Her%20X%20Non%20Tech%20in%20Tech.md)
 
 - [Technical writing slides](https://github.com/Bennykillua/Getting-started-in-Technical-Writing/blob/main/Learning%20Resources/Technical%20writing%20slides.md)
 
