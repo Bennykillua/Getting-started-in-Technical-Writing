@@ -107,6 +107,8 @@ Wanna make a contribution but don't know how? Check out the [how to contribute p
 
 - [Let's Talk Technical Writing](https://twitter.com/writefortech): Bi-weekly Twitter spaces about Technical writing
 
+- [Hackmamba Creator by William](https://discord.gg/vaajZHh2) 
+
 - Devwrites Africa. To join, send a DM to [Collins](https://twitter.com/codev206) or [Benny](https://twitter.com/Bennykillua).
 
 - [Write the Docs](https://www.writethedocs.org/): The largest and a global community of people who care about documentation. Join the [slack](https://www.writethedocs.org/slack/)
