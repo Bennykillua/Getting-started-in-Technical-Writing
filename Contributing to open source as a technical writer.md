@@ -31,6 +31,7 @@ Check [here](https://benny.hashnode.dev/how-to-contribute-to-open-source-project
 - [docToolchain](https://github.com/docToolchain/docToolchain/issues) you can also start by creating [tutorials for docToolChain](https://github.com/docToolchain/tutorials)
 - [Ansible OS contribution](https://github.com/orgs/ansible-community/projects/3/views/1)
 - [Microsoft Docs](https://techcommunity.microsoft.com/t5/itops-talk-blog/how-you-can-contribute-to-open-source-projects-on-github/ba-p/1475375)
+- [JSON Schema Ambassadors](https://json-schema.org/blog/posts/json-schema-ambassadors)
 
 - [numpy-newsletter issues](https://github.com/numpy/numpy-newsletter/issues)
 
@@ -43,8 +44,8 @@ Check [here](https://benny.hashnode.dev/how-to-contribute-to-open-source-project
      - [How to Crack the Google Season of Docs Application Process for 2020 by Edidiong Asikpo (Didi)](https://edidiongasikpo.com/how-to-crack-the-google-season-of-docs-application-process-for-2020)
      - [Google Season of Docs: What it is and how to get in by Gbadebo Bello ](https://docs.google.com/presentation/d/1An3Y2hWmbJnRUcJ8Vn17dIM4lXUvziOqooBx64e-WKE/edit#slide=id.g11a712d418c_1_6)
      - [Why you should participate in Google Season of Docs by Amruta Ranade](https://amrutaranade.com/2019/05/10/why-you-should-participate-in-google-season-of-docs/)
-     - 
-     #### Examples Propsals
+     - [Getting Accepted into Google Season of Docs 2024: My Personal Journey by Blessing Anyebe](https://medium.com/@anyebeblessing737/getting-accepted-into-google-season-of-docs-2024-my-personal-journey-b029afbe724e)
+     #### Examples Proposals
      - [Google Season of Docs proposal for VLC](https://docs.google.com/document/d/1sjHn5OGVZB0EbWHFL9_9Ty63oCF2itlYww2bf9Qhwtc/edit)
      - [GSoD 2020 Proposal: Improving Wikimedia's onboarding processes and documentation standards](https://phabricator.wikimedia.org/T255360)
      - [[2020] Season of Docs // Free resource for writing proposals](https://techwriting.ck.page/writing-proposals)
