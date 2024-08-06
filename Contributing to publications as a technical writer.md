@@ -23,5 +23,5 @@ For paid opportunities, please check out the [getting paid session](https://gith
 - [Superpath Slack Community](https://superpath.slite.page/p/uxi28Hdkunadzo/Guest-Contributions)
 - [The ML pracitioner](https://medium.com/the-ml-practioner/write-for-us-497a299d97a0)
 - [Maven's Medium publication, Learning Data!](https://medium.com/learning-data/how-to-get-your-work-published-by-learning-data-with-maven-analytics-7df21e466a3e)
-- [https://blog.det.life/write-for-data-engineer-things-32dc9294c5db](https://blog.det.life/write-for-data-engineer-things-32dc9294c5db)
+- [Write for Data Engineer Things](https://blog.det.life/write-for-data-engineer-things-32dc9294c5db)
 
