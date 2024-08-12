@@ -13,6 +13,8 @@
 
 - Keep an eye on the [Write the Docs Conferences site](https://www.writethedocs.org/conf/) to deliver a talk at either Write the Docs Portland, Prague, or Australia.
 
+- [sessionize.com](https://sessionize.com/login?ReturnUrl=%2Fapp%2Fspeaker%2Fdiscover)
+
 
 ## Resources
 
