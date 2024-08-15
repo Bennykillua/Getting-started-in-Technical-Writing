@@ -24,4 +24,5 @@ For paid opportunities, please check out the [getting paid session](https://gith
 - [The ML pracitioner](https://medium.com/the-ml-practioner/write-for-us-497a299d97a0)
 - [Maven's Medium publication, Learning Data!](https://medium.com/learning-data/how-to-get-your-work-published-by-learning-data-with-maven-analytics-7df21e466a3e)
 - [Write for Data Engineer Things](https://blog.det.life/write-for-data-engineer-things-32dc9294c5db)
+- [Write for KDnuggets]([https://www.kdnuggets.com/](https://www.kdnuggets.com/2019/11/write-for-kdnuggets.html)) or Submit your blog via submissions@kdnuggets.com
 
