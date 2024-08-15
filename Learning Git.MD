@@ -244,4 +244,5 @@
 - [GitHub for Beginners by Amruta Ranade](https://amrutaranade.com/2018/03/02/github-for-beginners/)
 - [Introduction to GitHub repo by GitHuB Skills](https://github.com/skills/introduction-to-github)
 - [Hello GitHub Actions by GitHub Skills](https://github.com/skills/hello-github-actions)
+- [Git and GitHub for Beginners - Crash Course](https://www.youtube.com/watch?v=RGOj5yH7evk)
 
